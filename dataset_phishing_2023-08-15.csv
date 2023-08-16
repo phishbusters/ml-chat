@@ -1,0 +1,1201 @@
+message	phishing	url	dominio	tiene_https	longitud_url	presencia_subdominio	palabras_clave_sospechosas
+Boludo, me picó un mosquito en el ojo. No veo nada	0			0	0	0	0
+Me duele mucho la cabeza. Creo que me quedaré en casa hoy.	0			0	0	0	0
+Q onda? Estoy teniendo problemas con mi cuenta de MercadoLibre. Me podes pasar tu usuario y clave para probar algo?	1			0	0	0	1
+Che, ¿podés enviarme tu número de CUIL? Es para un trámite del laburo.	1			0	0	0	0
+Participa en nuestro sorteo exclusivo y gana un viaje todo pagado. Haz clic aquí.	1			0	0	0	1
+Hoy me paró la policía. Me querían hacer una multa	0			0	0	0	0
+¡Tu dibujo ha sido seleccionado para nuestra portada! Míralo en www.dibujo-portada.com.ar.	1			0	0	0	0
+Hace mucho calor, vamos a la pileta?	0			0	0	0	0
+¿Podés darme tu número de pasaporte? Es para la reserva del viaje.	1			0	0	0	0
+Hey, olvidé mi billetera en tu coche. ¿Podemos encontrarnos mañana?	0			0	0	0	0
+Tu solicitud de cambio de dirección ha sido procesada. Todo está actualizado ahora.	0			0	0	0	0
+Tu cuenta ha sido bloqueada. Verifica tu identidad aquí para desbloquearla.	1			0	0	0	1
+Tu tarjeta de crédito ha sido bloqueada. Ingresa tus datos aquí para desbloquearla.	1			0	0	0	0
+No puedo creer que seamos graduados! ¿Te acuerdas de nuestra primera clase juntos?	0			0	0	0	0
+Tu boleta de ABL está disponible. Pagala en www.abl-pago.com.ar antes de la fecha de vencimiento.	1			0	0	0	0
+¡Sorteo de un auto 0km! Anotate en www.sorteo-auto.com.ar y cruzá los dedos. ¡Suerte!	1			0	0	0	0
+Tu vuelo ha sido confirmado. Aquí tienes los detalles.	0			0	0	0	0
+La práctica de fútbol de esta noche ha sido reprogramada. Te enviaré los detalles de la nueva fecha y hora.	0			0	0	0	0
+Tu cita para la revisión del coche ha sido programada. Te enviaré un recordatorio el día antes.	0			0	0	0	0
+Che, ¿podés enviarme una foto de tu DNI? Es para un trámite rápido.	1			0	0	0	0
+¡Ofertón en vuelos a Córdoba! Solo por hoy en URL.	1			0	0	0	0
+La solicitud de devolución de tu producto defectuoso ha sido aprobada. Por favor, sigue las instrucciones para el envío.	0			0	0	0	0
+La activación de tu modo de privacidad ha sido realizada. Tu actividad en línea ahora está protegida.	0			0	0	0	0
+Eh, capo, encontré estas fotos tuyas en una página rara. ¿Las viste?	1			0	0	0	0
+Che, necesito tu número de tarjeta y clave para hacer una reserva. Te pago después, dale?	1			0	0	0	0
+¡Promo en productos de ferretería! Comprá en www.ferreteria-descuento.com.ar y arreglá lo que necesitás.	1			0	0	0	0
+La confirmación de tu asistencia a la conferencia virtual ha sido recibida. Encuentra el enlace de acceso en tu correo electrónico.	0			0	0	0	0
+La transferencia de tus datos al nuevo dispositivo ha sido completada. Verifica que todo esté en orden.	0			0	0	0	0
+Te llegó un paquete, pero necesitan confirmar tu dirección. Completá tus datos acá. URL.	1			0	0	0	0
+La activación de tu garantía extendida ha sido procesada. Mantén tu recibo como comprobante.	0			0	0	0	0
+Tu cuenta de LinkedIn fue reportada. Tenés que confirmar tus datos en URL o te la bloquean.	1			0	0	0	1
+Necesito ayuda con mi computadora. ¿Puedes venir a verla?	0			0	0	0	0
+La verificación de tu dispositivo para la reparación bajo garantía ha sido exitosa. Procederemos con la reparación sin costo.	0			0	0	0	0
+Recibí tu solicitud de vacaciones. Está aprobada, así que disfruta de tu tiempo libre. ¡Te lo mereces!	0			0	0	0	0
+Tu cuenta de Instagram fue hackeada. Cambiá tu contraseña en URL antes de que sea tarde.	1			0	0	0	1
+Tu reserva para la consulta en línea con nuestro experto ha sido confirmada. Asegúrate de tener una buena conexión a Internet.	0			0	0	0	0
+Boludo, ¿me das tu CBU? Quiero hacerte una transferencia.	1			0	0	0	0
+¡Alerta! Hemos detectado actividad sospechosa en tu cuenta. Verifica aquí.	1			0	0	0	1
+¡Tu comentario ha sido el más votado! Revisa las respuestas en www.comentario-votado.com.ar.	1			0	0	0	0
+La respuesta a tu consulta técnica ha sido enviada. Si la solución no funciona, por favor, responde con más detalles.	0			0	0	0	0
+Boludo, me enteré q van a aumentar el bondi de nuevo	0			0	0	0	0
+Dale, decime tu dirección de email y contraseña, y te ayudo a configurar algo	1			0	0	0	0
+Viste el gol de Boca? Una locura, no?	0			0	0	0	0
+Amigo, me llegó un mail de tu cuenta con este link. ¿Es seguro? URL.	1			0	0	0	1
+Che, me prestas la bici mañana?	0			0	0	0	0
+Tu cita para el tour gastronómico ha sido confirmada. Detalles en www.tour-gastronómico.com.ar.	1			0	0	0	0
+Oye, encontré estas fotos tuyas en una página. ¿Las conocés? URL.	1			0	0	0	0
+¡Únete ahora! Nuestro programa exclusivo te ayudará a ganar dinero rápidamente. Haz clic aquí.	1			0	0	0	1
+¡Oferta por tiempo limitado! Compra este producto con un descuento del 70%. Haz clic aquí.	1			0	0	0	0
+Tu cita en el dentista fue programada. Confirmá en www.dentista-cita.com.ar y cuidá tu sonrisa.	1			0	0	0	0
+La reunión con el cliente ha sido programada para las 10 a. m. de mañana. Te enviaré un recordatorio.	0			0	0	0	0
+Q onda con la chica q te gusta? Avanzaste algo?	0			0	0	0	0
+Tu cuenta de MercadoPago necesita verificación. Hacelo en URL antes de que te la bloqueen.	1			0	0	0	1
+Te seleccionamos para una encuesta. Completala en www.encuesta-premio.com.ar y ganate una gift card de $1000.	1			0	0	0	1
+Q onda con la reunión de la secundaria? Vamos?	0			0	0	0	0
+Tu espacio en el estacionamiento ha sido reservado. Detalles en www.estacionamiento-reservado.com.ar.	1			0	0	0	0
+Q onda con tus viejos? Hace mucho q no los veo	0			0	0	0	0
+Hoy fui a una boda. Me emocioné y todo, jajaja	0			0	0	0	0
+Tenes el numero de Juan? Necesito llamarlo	0			0	0	0	0
+Che, ¿esto es tuyo? Encontré este link con tu nombre. URL.	1			0	0	0	0
+¡Tu jardín ha sido nominado como el mejor de la ciudad! Mira las fotos en www.jardin-nominado.com.ar.	1			0	0	0	0
+Soy tu vecino del 3°B. Mirá estas fotos en www.tusfotos-online.com, ¿no es tu auto?	1			0	0	0	0
+Tu recibo de sueldo está disponible. Descargalo en www.recibo-sueldo.com.ar y revisá tus ingresos.	1			0	0	0	0
+Tu cuenta ha sido bloqueada. Verifica tu identidad aquí para desbloquearla.	1			0	0	0	1
+Tu amigo te invitó a jugar online. Unite en www.juego-online.com.ar y divertite con él.	1			0	0	0	0
+Che, me pasas la sal? La comida esta sosa	0			0	0	0	0
+¡Sorpresa! Has sido elegido para una prueba gratuita de nuestro servicio premium. Regístrate aquí.	1			0	0	0	0
+Oye, ¿me das tu número de tarjeta de crédito? Quiero comprarte algo online.	1			0	0	0	0
+Tu cita para la entrevista ha sido confirmada.	0			0	0	0	0
+La reparación de tu coche costará $500. Por favor, confirma si estás de acuerdo.	0			0	0	0	0
+Necesito tu dirección completa para el envío. ¿Me la das?	1			0	0	0	0
+¡Felicidades! Ganaste un viaje a Córdoba. Confirmá tus datos en www.viajeGratisCBA.com y prepárate para viajar.	1			0	0	0	0
+Q opinas de la nueva música? Yo extraño los clásicos	0			0	0	0	0
+Verifica tu identidad ahora para evitar cargos adicionales en tu cuenta. Haz clic aquí.	1			0	0	0	1
+Has ganado un premio en nuestro sorteo exclusivo. Haz clic aquí para reclamarlo.	1			0	0	0	1
+Oye, ¿me das tu dirección completa? Quiero mandarte algo por correo.	1			0	0	0	0
+Tu auto fue multado. Pagá la multa en www.multas-transito.com.ar antes de que sea tarde.	1			0	0	0	0
+Gana dinero fácilmente participando en nuestra encuesta exclusiva. Haz clic aquí.	1			0	0	0	0
+Estoy buscando un nuevo apartamento. ¿Conoces algo bueno?	0			0	0	0	0
+Si ves a Jhon, dile que me llame, perdí mi telefono y necesito encontrarlo.	0			0	0	0	0
+Q opinas de los OVNIs? Yo creo q existen	0			0	0	0	0
+¡Ganaste una cata de vinos! Reservá en www.vinos-cata.com.ar y disfrutá de los mejores sabores.	1			0	0	0	0
+Tu factura de teléfono ha sido pagada automáticamente. Todo está en orden.	0			0	0	0	0
+Oye, encontré estas fotos tuyas en la web. Mira aca www.tusFotosLeaked.com. ¿Es esto real?	1			0	0	0	0
+La entrega de tu pedido ha sido reprogramada para mañana.	0			0	0	0	0
+Vamos a tomar algo el sabado, te prendes?	0			0	0	0	0
+Che, me pasas la tarea de matematica? No entendí nada	0			0	0	0	0
+¡Ganaste un día en el spa! Reservá tu cita en www.spa-gratis.com.ar y relajate.	1			0	0	0	1
+Q haces con el perro? Lo estas paseando?	0			0	0	0	0
+La verificación de tu compra ha sido exitosa. Tus productos digitales están disponibles para descargar.	0			0	0	0	0
+La clase de esta noche ha sido cancelada debido al clima.	0			0	0	0	0
+Zoey es la criptomoneda que todos están eligiendo. Depositas ahora y te prometen un retorno increíble a largo plazo. ¡No te pierdas esta oportunidad de ser parte del futuro!	1			0	0	0	0
+¡Oferta en artículos para bebés! Comprá en www.bebes-descuento.com.ar y cuidá de tu pequeño.	1			0	0	0	0
+Che, vi este video tuyo en una página rara. URL.	1			0	0	0	0
+Q haces el lunes? Hay un recital gratis	0			0	0	0	1
+La respuesta a tu consulta sobre el estado de tu reparación ha sido enviada. Tu dispositivo aún está en reparación.	0			0	0	0	0
+Tu vuelo ha sido reservado y pagado. Aquí tienes los detalles.	0			0	0	0	0
+Necesito comprar un regalo para mi sobrino. ¿Algún consejo?	0			0	0	0	0
+¡Oferta en artículos de seguridad! Comprá en www.seguridad-descuento.com.ar y protegé tu casa!	1			0	0	0	0
+Tu cuenta de Netflix ha sido suspendida. Ingresa a www.netflix-ar.com y verifica tus datos para reactivarla.	1			0	0	0	1
+La migración de tu sitio web a un nuevo servidor ha sido completada. Por favor, verifica su funcionamiento.	0			0	0	0	0
+Tu paquete está en camino. Seguilo en www.paquete-seguimiento.com.ar y sabé cuándo llega.	1			0	0	0	0
+Tu hijo hizo un trabajo increíble en la escuela hoy. Estamos muy impresionados con su progreso.	0			0	0	0	0
+Obtén un descuento del 60% en tu próxima compra. Solo regístrate aquí.	1			0	0	0	0
+Estoy pensando en aprender a tocar la guitarra. ¿Tú tocas algún instrumento?	0			0	0	0	0
+La oferta especial en nuestra tienda termina mañana. Pensé que te gustaría saberlo. ¡No te lo pierdas!	0			0	0	0	0
+Viste lo q pasó en el noticiero? Una locura	0			0	0	0	0
+Estoy muy emocionado por el concierto. ¿Tienes los boletos?	0			0	0	0	0
+Boludo, me clavé una astilla. Me duele mucho	0			0	0	0	0
+Voy a la biblioteca. ¿Quieres que te traiga algo?	0			0	0	0	0
+¡Descuentos en el super! Solo tenés que registrarte en URL. Yo ya lo hice.	1			0	0	0	0
+Creo que dejé las luces encendidas en casa. ¿Puedes verificarlo?	0			0	0	0	0
+¡Felicidades! Ganaste un viaje a Córdoba. Confirmá tus datos en www.viajeGratisCBA.com y prepárate para viajar.	1			0	0	0	0
+Q onda con tu hermana? Me dijo q estaba enferma	0			0	0	0	0
+La personalización de tus alertas de noticias ha sido guardada. Ahora recibirás noticias relevantes a tus intereses.	0			0	0	0	0
+Dale, nos vemos en el parque a las 5	0			0	0	0	0
+¡Oferta en productos para bebés! Comprá en www.bebes-descuento.com.ar y cuidá de tu pequeño.	1			0	0	0	0
+¡Oferta especial! Entrá a www.ropa-barata.com.ar y llevate 3 prendas al precio de 2. Solo por hoy.	1			0	0	0	0
+La práctica de baloncesto de esta noche ha sido pospuesta. Te avisaré tan pronto tenga una nueva fecha.	0			0	0	0	0
+Tu cuenta de Twitter necesita verificación. Hacelo en www.twitter-seguro.com.ar y seguí tuiteando.	1			0	0	0	1
+La oferta en nuestra tienda en línea termina a medianoche.	0			0	0	0	0
+Tuve un día muy largo. Necesito relajarme.	0			0	0	0	0
+Che, me pasas el control? Quiero cambiar de canal	0			0	0	0	0
+Venis a la pileta mañana? Va a hacer un calor de locos	0			0	0	0	0
+¿Me pasás una foto de tu tarjeta SUBE? Quiero ver si es igual a la mía.	1			0	0	0	0
+Boludo, se me rompió el aire acondicionado. Muero de calor	0			0	0	0	0
+¡Tu talento musical ha sido reconocido! Participa en nuestro concurso en www.musica-talento.com.ar.	1			0	0	0	0
+Descubri esta increible oferta de viaje a Bariloche. Ingresa a www.viajeBarilocheOferta.com.ar y mira los detalles!	1			0	0	0	0
+La solicitud para descargar tus fotos y videos ha sido procesada. Recibirás un enlace de descarga en breve.	0			0	0	0	0
+La configuración de tu respuesta automática ha sido activada. Puedes desactivarla en cualquier momento en la configuración.	0			0	0	0	0
+¡Oferta en productos de panadería! Comprá en www.panaderia-descuento.com.ar y disfrutá del pan recién hecho.	1			0	0	0	0
+Q opinas de la inflación? Yo no entiendo más nada	0			0	0	0	0
+Tu tarjeta de regalo está lista. Reclámala en www.tarjeta-regalo.com.ar.	1			0	0	0	0
+¡Ganaste un día de paintball! Reservá en www.paintball-diversion.com.ar y divertite con tus amigos.	1			0	0	0	0
+jajaja, ni te imaginas lo q pasó en el laburo. El jefe se volvió loco	0			0	0	0	0
+La conexión de tu cuenta con terceros ha sido revocada. Si no solicitaste esto, por favor, contacta a nuestro soporte.	0			0	0	0	1
+La reserva de tu cita para una demostración en persona ha sido confirmada. Nos vemos en nuestra oficina central.	0			0	0	0	0
+El paquete que enviaste ha sido entregado. Aquí está el número de seguimiento.	0			0	0	0	0
+Tu suscripción a nuestra revista ha sido renovada. Gracias por seguir con nosotros.	0			0	0	0	0
+Creo que olvidé mi teléfono en tu casa. ¿Lo has visto?	0			0	0	0	0
+Boludo, me echaron del laburo. No lo puedo creer	0			0	0	0	0
+La solicitud de un técnico para visitar tu ubicación ha sido confirmada. Nos vemos el próximo jueves.	0			0	0	0	0
+Amigo, ¿puedo tener una foto de tu DNI? Es para una promo que estoy haciendo.	1			0	0	0	0
+La confirmación de tu asistencia al webinar ha sido recibida. Prepara tus preguntas para la sesión de preguntas y respuestas.	0			0	0	0	0
+La receta que me pediste está en el libro en la cocina. ¡Estoy ansioso por probarlo!	0			0	0	0	0
+La práctica de natación de esta noche ha sido cancelada.	0			0	0	0	0
+La confirmación de tu registro en nuestro seminario en línea sobre seguridad cibernética ha sido recibida. Prepárate para aprender con expertos.	0			0	0	0	0
+La solicitud de asistencia en tu ubicación ha sido confirmada. Nuestro técnico llegará entre las 10 a. m. y 1 p. m.	0			0	0	0	0
+La recuperación de tus archivos eliminados ha sido exitosa. Encuentra los archivos adjuntos.	0			0	0	0	0
+El entrenamiento de fútbol de esta noche ha sido cancelado.	0			0	0	0	0
+Boludo, me encontré 100 pesos en la calle. Hoy invito yo	0			0	0	0	0
+Tu entrevista de trabajo ha sido programada. Verifica los detalles en www.entrevista-trabajo.com.ar.	1			0	0	0	0
+Vi el proyecto en el que has estado trabajando. ¡Es impresionante! Sigue así.	0			0	0	0	0
+¡Ganaste un día de campo! Reservá en www.campo-gratis.com.ar y disfrutá de la naturaleza.	1			0	0	0	1
+Estoy muy emocionado por el concierto. ¿Tienes los boletos?	0			0	0	0	0
+Oye, ¿me das tu número de tarjeta de débito? Es para una compra rápida.	1			0	0	0	0
+Tu cita con el asesor financiero ha sido programada. Detalles en www.asesor-financiero.com.ar.	1			0	0	0	0
+¡Ganaste una clase de boxeo! Reservá en www.boxeo-clase.com.ar y entrená como un campeón.	1			0	0	0	0
+Hoy me hice un tatuaje. Te lo muestro despues	0			0	0	0	0
+Tu auto ha sido seleccionado para una mejora gratuita. Confirma en www.auto-mejora.com.ar.	1			0	0	0	0
+Me compre una bici. Basta de gastar en nafta	0			0	0	0	0
+Estoy viendo un programa genial. ¿Quieres unirte?	0			0	0	0	0
+Tenes una receta para pasarme? Quiero cocinar	0			0	0	0	0
+Tu factura de celular está disponible. Pagala en www.celular-pago.com.ar antes de que te corten la línea.	1			0	0	0	0
+¡Ganaste una clase de hip hop! Reservá en www.hiphop-clase.com.ar y mové el cuerpo al ritmo de la música.	1			0	0	0	0
+Tu cita para la revisión del coche ha sido programada. Te enviaré un recordatorio el día antes.	0			0	0	0	0
+Verifica tu identidad ahora para evitar cargos adicionales en tu cuenta. Haz clic aquí.	1			0	0	0	1
+Tuve un sueño extraño anoche. Te contaré cuando te vea.	0			0	0	0	0
+Tu factura de teléfono ha sido pagada automáticamente. Todo está en orden.	0			0	0	0	0
+Tu suscripción está a punto de expirar. Renueva ahora con un descuento especial. Haz clic aquí.	1			0	0	0	0
+Tu permiso de trabajo ha sido aprobado. ¡Eso fue rápido! Ahora podemos avanzar.	0			0	0	0	0
+Voy a la casa de Juan, venis?	0			0	0	0	0
+¡Tu video ha sido seleccionado para nuestra campaña! Míralo en www.video-campaña.com.ar.	1			0	0	0	0
+¡Tu equipo ganó! Celebra con mercancía exclusiva. Compra ahora en www.equipo-ganador.com.ar.	1			0	0	0	1
+¡Promo en helados! Comprá en www.helados-descuento.com.ar y refrescate.	1			0	0	0	0
+El artículo que quieres leer está en la sección de tecnología.	0			0	0	0	0
+¡Oferta en tecnología! Comprá en www.tecnologia-ahorro.com.ar y actualizá tus dispositivos.	1			0	0	0	0
+Q opinas del cambio climático? Yo estoy preocupado	0			0	0	0	0
+Has sido seleccionado para una oferta especial. Ingresa tus datos aquí para aprovecharla.	1			0	0	0	0
+La conferencia ha sido trasladada al aula principal. ¡No te preocupes, aún hay tiempo!	0			0	0	0	0
+Felicidades por el nuevo trabajo. Estoy tan emocionado por ti. ¡Vamos a celebrarlo pronto!	0			0	0	0	0
+La receta que me pediste está en el libro en la estantería. ¡No puedo esperar a probarlo!	0			0	0	0	0
+¡Oferta en viajes! Comprá en www.viajes-promo.com.ar y escapate un fin de semana.	1			0	0	0	0
+Q haces con la moto? La estas usando?	0			0	0	0	0
+¡Tu serie favorita ya está disponible! Mírala ahora en www.serie-popular.com.ar antes que nadie.	1			0	0	0	0
+Vamos a jugar al futbol el domingo, te prendes?	0			0	0	0	0
+La oferta especial en nuestra tienda termina mañana. ¡No te la pierdas!	0			0	0	0	0
+La práctica de natación de esta noche ha sido cancelada. Nos vemos en la próxima.	0			0	0	0	0
+¿Cuál es tu número de cuenta bancaria? Quiero hacerte una transferencia.	1			0	0	0	1
+Tu informe ha sido recibido y está en revisión.	0			0	0	0	0
+La reunión con el equipo ha sido programada para las 2 p. m. Te veré allí.	0			0	0	0	0
+La programación de tu análisis de salud del sistema ha sido configurada para cada domingo. Mantén tu sistema en óptimas condiciones.	0			0	0	0	0
+Recibimos una solicitud de cambio de contraseña. Si no fuiste tú, haz clic aquí.	1			0	0	0	0
+¡Hola! Solo queria decirte que me encantó la pelicula que vimos anoche.	0			0	0	0	0
+¿Querés invertir en criptomonedas? Zoey es tu mejor opción. Te prometen recuperar tu inversión con grandes ganancias en el futuro. ¡Aprovechá ahora y no te quedes afuera!	1			0	0	0	1
+Tu cuenta de Instagram fue hackeada. Recuperá tu acceso en www.instagram-recuperacion.com.ar.	1			0	0	0	1
+Tu cuenta ha sido seleccionada para una actualización gratuita. Haz clic aquí para confirmar.	1			0	0	0	1
+Creo que olvidé mi chaqueta en tu casa. ¿La has visto?	0			0	0	0	0
+Q onda con tu jefe? Te dio el aumento?	0			0	0	0	0
+¡Ganaste una clase de cerámica! Reservá en www.ceramica-clase.com.ar y moldeá tu creatividad.	1			0	0	0	0
+La práctica de natación de esta noche ha sido cancelada. Nos vemos en la próxima.	0			0	0	0	0
+Estoy pensando en tomar una clase de yoga. ¿Te interesa?	0			0	0	0	0
+La confirmación de tu cita de servicio en nuestra tienda ha sido recibida. Trae tu dispositivo y cualquier documentación relevante.	0			0	0	0	0
+La fiesta estuvo genial, cuando repetimos?	0			0	0	0	0
+Hice una receta nueva para la cena. Espero que te guste.	0			0	0	0	0
+¡Oferta en pañales! Comprá en www.pañales-promo.com.ar y cuidá de tu bebé.	1			0	0	0	0
+Tu tarjeta de membresía ha sido renovada. Gracias por quedarte con nosotros. ¡Lo apreciamos mucho!	0			0	0	0	0
+La respuesta a tu consulta sobre la disponibilidad de una función ha sido enviada. La función estará disponible en la próxima actualización.	0			0	0	0	0
+La confirmación de tu cancelación de la suscripción de correo electrónico ha sido recibida. No recibirás más correos de nuestra parte.	0			0	0	0	0
+Hoy me encontré con un perro perdido. Lo llevé a mi casa	0			0	0	0	0
+Boludo, me olvidé las llaves adentro de la casa. Veni a ayudarme	0			0	0	0	0
+La clase de esta noche ha sido cancelada debido al clima. Nos vemos en la próxima.	0			0	0	0	0
+¿Cuál es tu CBU? Quiero hacerte una transferencia ahora mismo.	1			0	0	0	0
+Voy a una conferencia mañana. ¿Quieres venir conmigo?	0			0	0	0	0
+Necesito comprar un regalo para mi primo. ¿Algún consejo?	0			0	0	0	0
+¡Promo en artículos de belleza! Comprá en www.belleza-descuento.com.ar y cuidá tu piel.	1			0	0	0	0
+La actualización de tu perfil de usuario ha sido guardada. Si tienes alguna pregunta, estamos aquí para ayudarte.	0			0	0	0	0
+¡Promo en videojuegos! Comprá en www.videojuegos-descuento.com.ar y jugá a lo último.	1			0	0	0	0
+La confirmación de tu registro para el desafío de codificación ha sido recibida. Buena suerte en la competencia.	0			0	0	0	0
+La reunión con el proveedor ha sido programada para el lunes.	0			0	0	0	0
+Hoy fui a un casamiento. Me puse re elegante, jajaja	0			0	0	0	0
+Che, q onda con tu hermano? Hace mucho q no lo veo	0			0	0	0	0
+Q onda con el gimnasio? Estas yendo?	0			0	0	0	0
+Dale, confirmame para el viaje asi reservo	0			0	0	0	0
+Tus amigos te están esperando en este nuevo juego. Únete ahora en www.juego-amigos.com.ar y no te quedes afuera.	1			0	0	0	0
+El informe que pediste estará listo mañana.	0			0	0	0	0
+La fecha límite para la presentación se ha extendido hasta el lunes. ¡Un fin de semana menos estresante!	0			0	0	0	0
+Tu tarjeta de crédito ha sido comprometida. Ingresa tus datos aquí para verificarla.	1			0	0	0	0
+Tu cita en el médico fue confirmada. Revisala en www.cita-medico.com.ar y preparate para la consulta.	1			0	0	0	0
+La consulta sobre la disponibilidad de un producto ha sido respondida. Sí, está en stock y listo para el envío.	0			0	0	0	0
+¡Tu chiste ha sido seleccionado para nuestra revista! Léelo en www.chiste-seleccionado.com.ar.	1			0	0	0	0
+Soy tu primo. Necesito tu ayuda urgente. Ingresa a www.ayudamePrimo.com y decime si podes hacerlo.	1			0	0	0	0
+Tenes un mapa? Me perdi en la ciudad	0			0	0	0	0
+La respuesta a tu pregunta frecuente ha sido enviada. Si necesitas más claridad, no dudes en preguntar.	0			0	0	0	0
+Te vi en el shopping, estabas con tu novia?	0			0	0	0	0
+Ganate una cena en la parrilla del Tano. Solo tenés que entrar en URL y seguir los pasos.	1			0	0	0	0
+Perdí mis llaves. ¿Puedes abrirme la puerta?	0			0	0	0	0
+Tu pedido ha sido enviado. Aquí tienes el número de seguimiento.	0			0	0	0	0
+Che, me acompañás al médico? Me da miedo ir solo	0			0	0	0	0
+No puedo encontrar mi libro favorito. ¿Lo has visto?	0			0	0	0	0
+¡Tu innovación ha sido patentada! Consulta los detalles en www.innovación-patentada.com.ar.	1			0	0	0	0
+Che, ¿podés enviarme tu número de CUIL? Es para la planilla del trabajo.	1			0	0	0	0
+Tu pago ha sido rechazado. Ingresa tus datos aquí para procesarlo nuevamente.	1			0	0	0	0
+Voy a cocinar la cena esta noche. ¿Algún antojo en particular?	0			0	0	0	0
+Tu cuenta de Netflix necesita verificación. Hacelo en www.netflix-verificacion.com.ar y seguí disfrutando de tus series.	1			0	0	0	1
+La reunión con el cliente ha sido confirmada para mañana.	0			0	0	0	0
+La programación de tu suscripción a actualizaciones automáticas ha sido configurada. Mantendremos tu sistema al día.	0			0	0	0	0
+Creo que vi a tu hermano en la tienda. ¿Está en la ciudad?	0			0	0	0	0
+Confirma tu suscripción a nuestro servicio premium con un descuento del 80%. Haz clic aquí.	1			0	0	0	0
+¡Ganaste un iPhone! Solo tenés que entrar en www.gana-iPhone.com.ar y seguir los pasos. ¡Apurate, es por tiempo limitado!	1			0	0	0	1
+La verificación de tu tarjeta de regalo ha sido exitosa. El saldo ha sido añadido a tu cuenta.	0			0	0	0	1
+¡Entradas gratis para el recital de La Renga! Conseguilas en URL. ¡Dale que se acaban!	1			0	0	0	1
+Vi este video tuyo en YouTube, ¿qué onda con esto? URL.	1			0	0	0	0
+¡Descuento en carnes! Comprá en www.carnes-argentinas.com.ar y preparate para el asado del domingo.	1			0	0	0	0
+Estoy pensando en cortarme el cabello. ¿Qué opinas?	0			0	0	0	0
+Tenes el numero de Pedro? Necesito hablar con el	0			0	0	0	0
+¡Ganaste una clase de yoga! Reservá en www.yoga-gratis.com.ar y encontrá tu paz interior.	1			0	0	0	1
+Tu reserva en el hotel ha sido confirmada. Aquí tienes los detalles.	0			0	0	0	0
+¡Ganaste una clase de guitarra! Reservá en www.guitarra-clase.com.ar y tocá como un rockstar.	1			0	0	0	0
+Che, te vi en el tren pero estabas lejos. Cómo estás?	0			0	0	0	0
+La receta que me pediste está en el libro de cocina en la página 52.	0			0	0	0	0
+¿Participaste en este sorteo? Me parece medio raro. URL.	1			0	0	0	0
+Vamos a correr por el parque, venis?	0			0	0	0	0
+La programación de tu análisis de seguridad semanal ha sido establecida. Recibirás un informe después de cada análisis.	0			0	0	0	0
+La cancelación de tu participación en el programa beta ha sido procesada. Gracias por tus valiosos comentarios.	0			0	0	0	0
+La oferta especial en nuestra tienda termina hoy. Si estás interesado, ¡hoy es el día!	0			0	0	0	0
+Tu vuelo ha sido confirmado. Aquí tienes tu boleto.	0			0	0	0	0
+Tu pregunta sobre la configuración del correo electrónico ha sido recibida. Nuestro soporte técnico te contactará en breve.	0			0	0	0	0
+Voy a una fiesta de cumpleaños. ¿Te gustaría venir?	0			0	0	0	0
+Te extraño mucho. Espero verte pronto.	0			0	0	0	0
+La optimización de tu sistema ha sido realizada. Deberías notar una mejora en la velocidad y rendimiento.	0			0	0	0	0
+Tu factura de este mes ha sido pagada automáticamente. Todo está en orden. No te preocupes.	0			0	0	0	0
+La verificación de la compatibilidad de tu hardware ha sido realizada. Todo está en orden para la actualización.	0			0	0	0	0
+La receta que me pediste está en el correo electrónico que te envié ayer. ¡Disfrútalo!	0			0	0	0	0
+¡Promo en productos para el pelo! Comprá en www.pelo-descuento.com.ar y lucí una melena brillante.	1			0	0	0	0
+Obtén un descuento del 50% en tu próxima compra. Solo regístrate aquí.	1			0	0	0	0
+Has sido seleccionado para recibir un regalo gratuito. Haz clic aquí para reclamarlo.	1			0	0	0	0
+¡Ganaste una clase de surf! Reservá en www.surf-clase.com.ar y domá las olas.	1			0	0	0	0
+Che, ¿me pasás una foto de tu licencia? Es para un seguro que estoy sacando.	1			0	0	0	0
+Che, tu factura de luz está pendiente. Pagala en www.luz-argentina.com antes de que te corten el servicio.	1			0	0	0	0
+Che, me prestas tu bici el finde? La mía se rompió	0			0	0	0	0
+Tu gato se coló en mi jardín otra vez. Es muy travieso, pero lo amo.	0			0	0	0	0
+Alguien ha intentado acceder a tu cuenta. Haz clic aquí para cambiar tu contraseña.	1			0	0	0	1
+El artículo que buscas está en la página 10 de la revista. Lo leí y pensé en ti. ¡Es muy interesante!	0			0	0	0	0
+La calibración de tu equipo ha sido realizada por nuestro técnico. Si hay problemas adicionales, avísanos.	0			0	0	0	0
+Che, me pasas el ketchup? La hamburguesa esta seca	0			0	0	0	0
+La cancelación de la suscripción a las alertas por correo electrónico ha sido procesada. Puedes volver a suscribirte en cualquier momento.	0			0	0	0	0
+La película comienza a las 7 p. m. ¿Te veré allí? Será divertido.	0			0	0	0	0
+La práctica de tenis de esta noche ha sido cancelada debido al clima. Nos vemos en la próxima.	0			0	0	0	0
+Hoy cocino yo. Venite a casa tipo 8	0			0	0	0	0
+me pasás una foto de tu tarjeta? Necesito ver algo rápido.	1			0	0	0	0
+Che, te invito a mi cumple. Trae a tu novia	0			0	0	0	0
+Che, ¿cuál es tu número de cuenta? Quiero transferirte la plata.	1			0	0	0	1
+Hoy fui a una clase de cocina. Aprendí a hacer sushi	0			0	0	0	0
+Che, me olvide mi clave del home banking, me haces el favor y te fijas si me llego la transferencia?	1			0	0	0	0
+La reunión con el cliente ha sido confirmada para mañana. Estoy seguro de que será un éxito.	0			0	0	0	0
+Tu cita para la entrevista ha sido confirmada para el lunes a las 3 p. m.	0			0	0	0	0
+Vamos al teatro el viernes, te prendes?	0			0	0	0	0
+El artículo que buscas está en la página 10 de la revista. Lo leí y pensé en ti. ¡Es muy interesante!	0			0	0	0	0
+Che, te vi con una mina en el cine. Quien era?	0			0	0	0	0
+La entrega de tu pedido ha sido programada para mañana. Estoy emocionado por ti. ¡Espero que te guste!	0			0	0	0	0
+Me compre una bici nueva, vamos a andar?	0			0	0	0	0
+¡Ganaste un día de parapente! Reservá en www.parapente-vuelo.com.ar y volá como un pájaro.	1			0	0	0	0
+Hoy fui a una competencia de baile. Me divertí mucho	0			0	0	0	0
+La conexión de tu cuenta de redes sociales ha sido realizada. Ahora puedes compartir directamente desde nuestra plataforma.	0			0	0	0	1
+Vi a tu hermana en el centro comercial. No la había visto en años. ¡Se ve igual!	0			0	0	0	0
+Voy a hacer una barbacoa este fin de semana. ¿Te gustaría venir?	0			0	0	0	0
+Tu cuenta está en riesgo de ser suspendida. Ingresa tus detalles aquí para verificarla.	1			0	0	0	1
+¡Oferta especial! Compra este producto ahora y obtén un segundo gratis. Haz clic aquí.	1			0	0	0	1
+Tu reserva en el hotel ha sido confirmada. Aquí tienes los detalles. ¡Disfruta de tu estancia!	0			0	0	0	0
+¡Promo en fiambres! Comprá en www.fiambres-descuento.com.ar y disfrutá de un picadito.	1			0	0	0	0
+Verifica tu identidad ahora para evitar cargos adicionales en tu cuenta. Haz clic aquí.	1			0	0	0	1
+El libro que pediste está ahora disponible en la biblioteca.	0			0	0	0	0
+Hoy fui a una cata de vinos. Me emborraché, jajaja	0			0	0	0	0
+Tu opinión cuenta. Participa en nuestra encuesta en www.encuesta-opinion.com.ar y recibe un regalo.	1			0	0	0	1
+¿Cuál es tu número de tarjeta de crédito? Quiero comprarte el regalo online.	1			0	0	0	0
+Tu vuelo ha sido reservado y pagado. Todo está listo. ¡Estoy emocionado por tu viaje!	0			0	0	0	0
+Te vi en una foto con una mina. Quien es? Contame todo	0			0	0	0	0
+La confirmación de tu registro para el torneo en línea ha sido recibida. Prepárate para competir y buena suerte.	0			0	0	0	0
+Boludo, me dejó mi novia. No sé q hacer	0			0	0	0	0
+¡Hola! Tu cita con el dentista es el próximo martes a las 3 p. m. No lo olvides.	0			0	0	0	0
+Vamos a la fiesta de Maria, te prendes?	0			0	0	0	0
+Tu pedido ha sido recibido y está siendo procesado.	0			0	0	0	0
+Tu registro para la competencia en línea ha sido exitoso. Te enviaremos detalles adicionales pronto.	0			0	0	0	0
+Q opinas del nuevo presidente? Yo estoy preocupado	0			0	0	0	0
+La garantía de tu producto ha sido extendida por 6 meses. Gracias por elegirnos.	0			0	0	0	0
+¡Felicidades por ser aceptado en la universidad de tus sueños! Estamos todos muy orgullosos de ti.	0			0	0	0	0
+Tu turno en la farmacia fue programado. Confirmá en www.farmacia-turno.com.ar y retirá tus medicamentos.	1			0	0	0	0
+La verdad, no me gusto la pelicula, una lastima	0			0	0	0	0
+Tu examen de conducir fue programado. Confirmá en www.examen-conducir.com.ar y preparate para manejar.	1			0	0	0	0
+Necesito tu dirección completa para enviarte el paquete. ¿Me la das?	1			0	0	0	0
+¡Última oportunidad! Gana $10,000 en nuestro sorteo exclusivo. Regístrate aquí.	1			0	0	0	0
+¡Oferta única! Compra este producto ahora con un 50% de descuento. Haz clic aquí.	1			0	0	0	0
+¡Tu diseño ha sido seleccionado! Vota por él en www.diseño-seleccionado.com.ar.	1			0	0	0	0
+Se me rompió la compu. Sabes arreglarla?	0			0	0	0	0
+me enteré de un negocio que te hace rico en 6 meses. Depositas $2,000 y te prometen $20,000. ¡Es una oportunidad única, no te quedés afuera!	1			0	0	0	0
+Hola, ¿cómo estás? Solo un recordatorio amistoso sobre nuestra cena de esta noche. ¡Nos vemos a las 7!	0			0	0	0	0
+¡Ganaste un día de golf! Reservá tu horario en www.golf-gratis.com.ar y practicá tu swing.	1			0	0	0	1
+Che, me prestas plata? Te la devuelvo el mes q viene	0			0	0	0	0
+Tu tarjeta ha sido cargada. Si no reconoces este cargo, haz clic aquí para disputarlo.	1			0	0	0	0
+Che, te acordas de nuestro viaje a Bariloche? Qué épocas	0			0	0	0	0
+¡Cupones de descuento para la parrilla de Carlitos! Solo tenés que registrarte en URL.	1			0	0	0	0
+La clase de baile de esta noche ha sido pospuesta. Lo siento por el inconveniente. Te avisaré la nueva fecha.	0			0	0	0	0
+Tu artículo ha sido publicado. ¡Gran trabajo! Sabía que podías hacerlo.	0			0	0	0	0
+La renovación de tu licencia de software ha sido exitosa. Continúa disfrutando de todas las características sin interrupciones.	0			0	0	0	0
+¿Te enteraste de Zoey? Es una criptomoneda revolucionaria en la que si invertís ahora, te prometen un retorno increíble a largo plazo. ¡No te lo pierdas!	1			0	0	0	0
+Tu coche está listo en el taller. Puedes pasar a recogerlo cuando quieras.	0			0	0	0	0
+La receta que me pediste está en el correo electrónico que te envié ayer.	0			0	0	0	0
+Q quilombo en el centro, me tomó una hora llegar a casa	0			0	0	0	0
+Oye, ¿cuál es tu cuenta bancaria? Quiero hacerte una transferencia.	1			0	0	0	1
+¡Oferta en accesorios de moda! Comprá en www.accesorios-descuento.com.ar y lucí a la última.	1			0	0	0	0
+Tu turno en el taller mecánico fue confirmado. Revisalo en www.taller-mecanico.com.ar y arreglá tu auto.	1			0	0	0	0
+¡Oferta especial! Compra este producto ahora y obtén un segundo gratis. Haz clic aquí.	1			0	0	0	1
+Tu cita para la prueba de manejo ha sido programada. Verifica en www.prueba-manejo.com.ar.	1			0	0	0	0
+La activación de tu software ha sido exitosa. Aquí tienes una guía para comenzar.	0			0	0	0	0
+Actualiza tus detalles de pago ahora para evitar la suspensión del servicio. Haz clic aquí.	1			0	0	0	0
+Tu mesa para la noche de comedia ha sido reservada. Confirma en www.comedia-reserva.com.ar.	1			0	0	0	0
+Che, necesito tu clave de Wifi para conectarme. Me quedé sin datos y tengo que mandar un mail	1			0	0	0	0
+La oferta especial en la tienda termina hoy. ¡Aprovecha si estás interesado!	0			0	0	0	0
+¡Oferta por tiempo limitado! Compra ahora y obtén envío gratis. Haz clic aquí.	1			0	0	0	1
+La oferta especial en la tienda termina hoy. ¡Aprovecha!	0			0	0	0	0
+Tu cuenta de Spotify fue hackeada. Recuperá tu acceso en www.spotify-recuperacion.com.ar y seguí escuchando música.	1			0	0	0	1
+Te elegimos para una encuesta exclusiva. Completa tus datos en www.encuesta-premio.com y gana una gift card!	1			0	0	0	1
+Estoy buscando un nuevo apartamento. ¿Conoces algo bueno?	0			0	0	0	0
+Me pinto la nostalgia. Me acuerdo cuando ibamos al colegio juntos	0			0	0	0	0
+Che, necesito un abogado. Sabes de alguno bueno?	0			0	0	0	0
+Has sido seleccionado para recibir un regalo gratuito. Haz clic aquí para reclamarlo.	1			0	0	0	0
+No puedo creer lo q paso ayer en el partido, un desastre	0			0	0	0	0
+El entrenamiento de esta noche ha sido cancelado. Lo siento por el cambio de planes. ¿Qué te parece si lo intentamos mañana?	0			0	0	0	0
+La programación de tu actualización de hardware en la tienda ha sido confirmada. Por favor, lleva tu dispositivo a nuestra ubicación.	0			0	0	0	0
+Tu pedido ha sido procesado y estará en camino pronto.	0			0	0	0	0
+Me invitaron a un casamiento. Q me pongo?	0			0	0	0	0
+Che, metele que llegamos tarde. No seas pajero	0			0	0	0	0
+La oferta especial en nuestra tienda termina mañana.	0			0	0	0	0
+Tu informe ha sido revisado y será publicado pronto.	0			0	0	0	0
+¿Me das tu número de cuenta? Quiero transferirte la plata ahora.	1			0	0	0	1
+Che, me pasas la tarea? No la entendi	0			0	0	0	0
+¡Tu historia ha sido seleccionada para nuestro podcast! Escúchala en www.podcast-historia.com.ar.	1			0	0	0	0
+Estoy planeando un viaje. ¿Quieres unirte?	0			0	0	0	0
+Tu cita para donar sangre ha sido confirmada. Verifica en www.donar-sangre.com.ar.	1			0	0	0	0
+Tu pedido ha sido recibido y está siendo procesado. Te mantendré informado si hay novedades.	0			0	0	0	0
+Boludo, se me cayó el celular al inodoro. Un desastre	0			0	0	0	0
+La reunión con el equipo ha sido programada para las 2 p. m.	0			0	0	0	0
+Tu vuelo ha sido reservado y pagado. ¡Nos vemos pronto! Estoy emocionado por tu visita.	0			0	0	0	0
+La respuesta a tu pregunta sobre las opciones de entrega ha sido enviada. Ofrecemos envío estándar y exprés.	0			0	0	0	0
+No puedo creer que nos graduemos pronto. ¿Estás emocionado?	0			0	0	0	0
+Recibe un descuento especial en tu próxima compra. Solo ingresa tus datos aquí.	1			0	0	0	0
+Acabo de ver el informe que enviaste. ¡Buen trabajo! Si tienes algo más que agregar, avísame.	0			0	0	0	0
+Completa esta encuesta y gana una tarjeta de regalo de $200. Haz clic aquí.	1			0	0	0	1
+Creo que olvidé apagar el horno. ¿Puedes checarlo por mi?	0			0	0	0	0
+La activación de tu cuenta multiusuario ha sido completada. Invita a tu equipo utilizando la función de invitación.	0			0	0	0	1
+Me llegó un mensaje de voz tuyo, pero no puedo abrirlo. ¿Qué onda?	1			0	0	0	0
+Estoy pensando en tomar una clase de baile. ¿Te interesa?	0			0	0	0	0
+¡Oferta en artículos de papelería! Comprá en www.papeleria-descuento.com.ar y organizá tu escritorio.	1			0	0	0	0
+¿Podés darme tu número de cuenta bancaria? Quiero hacerte una transferencia.	1			0	0	0	1
+Boludo, mi hermano se va a vivir a España. No lo puedo creer	0			0	0	0	0
+Ganate unas vacaciones en Mar del Plata. Solo entrá acá y completá el formulario. URL.	1			0	0	0	0
+Oye, ¿me das una foto de tu firma? Necesito compararla con algo.	1			0	0	0	0
+La restauración de tus archivos de la papelera ha sido realizada. Los encontrarás en su ubicación original.	0			0	0	0	0
+La fecha límite para la tarea se ha cambiado a la próxima semana.	0			0	0	0	0
+Tu reserva en el restaurante ha sido confirmada para las 8 p. m.	0			0	0	0	0
+Hoy fui a bailar y me encontré con tu primo	0			0	0	0	0
+¡Oferta en libros! Comprá en www.libros-promo.com.ar y disfrutá de la lectura.	1			0	0	0	0
+Boludo, casi me choca un auto hoy. Q susto	0			0	0	0	0
+¿Podés enviarme una foto de tu pasaporte? Es para una reserva de vuelo.	1			0	0	0	0
+Che, te paso este link para q te anotes en el sorteo d un iPhone nuevo. No te lo pierdas! www.ganaiPhoneYa.com	1			0	0	0	1
+Che, me llegó un mail con este link tuyo. ¿Vos lo mandaste? URL.	1			0	0	0	0
+¡Ganaste un día de kayak! Reservá en www.kayak-aventura.com.ar y remá por los ríos.	1			0	0	0	0
+La actualización de tu configuración de accesibilidad ha sido realizada. Háznos saber si hay algo más en lo que podamos ayudarte.	0			0	0	0	0
+La inscripción en nuestra lista de espera ha sido confirmada. Te notificaremos cuando el producto esté disponible.	0			0	0	0	0
+La instalación de la extensión solicitada ha sido realizada. Prueba su funcionalidad y házanos saber si todo está bien.	0			0	0	0	0
+Tu hijo ha sido aceptado en la universidad de su elección. ¡Estamos muy orgullosos!	0			0	0	0	0
+La verificación de tu estado de estudiante ha sido exitosa. Tu descuento estudiantil ahora está activo.	0			0	0	0	0
+Tu cuenta de Amazon fue bloqueada. Recuperá tu acceso en www.amazon-recuperacion.com.ar y seguí comprando.	1			0	0	0	1
+La reunión de mañana ha sido cambiada a las 2 p. m.	0			0	0	0	0
+La configuración de tu asistente virtual ha sido actualizada con tus preferencias. Prueba diciendo 'Hola' para comenzar.	0			0	0	0	0
+¡Tu aplicación ha sido destacada en nuestra tienda! Descárgala en www.aplicación-destacada.com.ar.	1			0	0	0	0
+La confirmación de tu reserva para el taller práctico ha sido recibida. Por favor, trae tu propio equipo.	0			0	0	0	0
+La práctica de fútbol de esta noche ha sido reprogramada.	0			0	0	0	0
+Zoey es la nueva criptomoneda que está causando revuelo. Depositas tu plata y te aseguran un retorno increíble a largo plazo. ¡Es una oportunidad única, aprovechala!	1			0	0	0	1
+¡Ganaste un crucero! Reservá tu lugar en www.crucero-gratis.com.ar y navegá por el Caribe.	1			0	0	0	1
+¡Oferta especial! Entrá a www.ropa-barata.com.ar y llevate 3 prendas al precio de 2. Solo por hoy.	1			0	0	0	0
+Hoy fui a un spa. Me siento renovado	0			0	0	0	0
+La respuesta a tu solicitud de cambio de moneda en la cuenta ha sido enviada. Lamentablemente, no podemos cambiar la moneda en este momento.	0			0	0	0	1
+La configuración de tu firewall ha sido actualizada. Revisa los registros regularmente para detectar actividad sospechosa.	0			0	0	0	0
+¡Advertencia! Tu cuenta será cerrada si no verificas tu identidad ahora. Haz clic aquí.	1			0	0	0	1
+Tu tarjeta de crédito ha sido actualizada. Gracias por la información. Todo está seguro.	0			0	0	0	0
+Estoy pensando en cambiar de trabajo. ¿Qué opinas?	0			0	0	0	0
+La entrega de tu pedido ha sido reprogramada para mañana. Te mantendré informado si hay más cambios.	0			0	0	0	0
+Obtén acceso exclusivo a nuestra oferta especial. Solo ingresa tus datos aquí.	1			0	0	0	0
+La fecha límite para la presentación se ha extendido hasta el lunes.	0			0	0	0	0
+¡Oferta de trabajo! Postulate en www.trabajo-ya.com.ar y empezá a trabajar la semana que viene.	1			0	0	0	0
+¡Ganaste una clase de buceo! Reservá en www.buceo-clase.com.ar y explorá el fondo del mar.	1			0	0	0	0
+¡Tu poesía ha sido publicada! Léela en nuestra revista en www.poema-publicado.com.ar.	1			0	0	0	0
+me enteré de una inversión que te hace millonario en 6 meses. Depositas $5,000 y te devuelven $50,000. ¡Es una oportunidad única, no te la pierdas!	1			0	0	0	0
+Oye, ¿te llegó el correo de la promo del banco? Me parece medio trucho.	1			0	0	0	0
+Tu mesa en el restaurante temático ha sido reservada. Confirma en www.restaurante-temático.com.ar.	1			0	0	0	0
+Tu cuenta de eBay fue hackeada. Recuperá tu acceso en www.ebay-recuperacion.com.ar y seguí comprando.	1			0	0	0	1
+Tenes planes para el finde? Podemos ir al cine	0			0	0	0	0
+¡Oferta por tiempo limitado! Compra ahora y obtén envío gratis. Haz clic aquí.	1			0	0	0	1
+Tu cita con el médico ha sido confirmada para el viernes.	0			0	0	0	0
+Tenes un cargador para prestarme? Me quede sin bateria	0			0	0	0	0
+Estoy viendo una película genial. ¿Quieres unirte?	0			0	0	0	0
+La oferta en nuestra tienda en línea termina a medianoche. Sé que estabas interesado, así que no te lo pierdas.	0			0	0	0	0
+Necesito comprar un regalo para mi hermana. ¿Algún idea?	0			0	0	0	0
+La configuración de tu filtro de spam ha sido actualizada. Revisa la carpeta de spam regularmente por falsos positivos.	0			0	0	0	0
+Tu inscripción en el gimnasio ha sido renovada. ¡A seguir entrenando juntos!	0			0	0	0	0
+La receta que me pediste está en el correo electrónico que te envié ayer. ¡Disfrútalo!	0			0	0	0	0
+La activación de tu configuración de respaldo en la nube ha sido exitosa. Tus datos están ahora seguros y accesibles.	0			0	0	0	0
+¡Únete ahora! Nuestro programa exclusivo te ayudará a ganar dinero rápidamente. Haz clic aquí.	1			0	0	0	1
+La entrega de tu pedido ha sido programada para mañana. Estoy emocionado por ti. ¡Espero que te guste!	0			0	0	0	0
+La conferencia ha sido movida al salón B. Te veré allí. ¡Va a ser emocionante!	0			0	0	0	0
+Tu consulta sobre el error en la aplicación ha sido registrada. Nuestro equipo técnico te responderá pronto.	0			0	0	0	0
+Q onda esa serie q me recomendaste? No me gustó nada	0			0	0	0	0
+Q haces para Navidad? Yo me voy a lo de mis viejos	0			0	0	0	0
+¡Tu mascota es la estrella del mes! Mira su foto en www.mascota-estrella.com.ar.	1			0	0	0	0
+¡Ganaste una clase de zumba! Reservá en www.zumba-clase.com.ar y bailá al ritmo de la música.	1			0	0	0	0
+Che, me pasas la receta de las empanadas?	0			0	0	0	0
+Vamos a la exposicion el domingo, te prendes?	0			0	0	0	0
+Tu reserva para la cata de cervezas está lista. Confirma en www.cata-cervezas.com.ar.	1			0	0	0	0
+Tu solicitud de transferencia ha sido aprobada.	0			0	0	0	0
+¡Ganaste una sesión de masajes! Reservá en www.masajes-relax.com.ar y olvidate del estrés.	1			0	0	0	0
+¡Descuentos en ropa deportiva! Solo por hoy en URL. ¡Imperdible!	1			0	0	0	0
+¡Promo en relojes! Comprá en www.relojes-descuento.com.ar y lucí elegante.	1			0	0	0	0
+La oferta en nuestra tienda en línea termina a medianoche. Sé que estabas interesado, así que no te lo pierdas.	0			0	0	0	0
+La receta que pediste está adjunta en este correo.	0			0	0	0	0
+La activación de tu seguimiento de hábitos en nuestra aplicación ha sido exitosa. Comienza a registrar tus hábitos hoy.	0			0	0	0	0
+¡Tus habilidades artísticas han sido reconocidas! Participa en nuestra exposición en www.arte-exposicion.com.ar.	1			0	0	0	0
+Boludo, se me pinchó una goma. Venis a ayudarme?	0			0	0	0	0
+Che, sabes si Laura está de novia con alguien?	0			0	0	0	0
+Tu pedido ha sido enviado. Aquí tienes el número de seguimiento. ¡Espero que te guste!	0			0	0	0	0
+Voy a hacer un pastel. ¿Quieres ayudarme?	0			0	0	0	0
+Boludo, me hicieron una multa de tránsito. Un afano	0			0	0	0	0
+Tu factura de internet está pendiente. Pagala en www.internet-pago.com.ar antes de que te corten el servicio.	1			0	0	0	0
+La reunión con el proveedor ha sido programada para el lunes. Te enviaré los detalles pronto.	0			0	0	0	0
+La evaluación gratuita de nuestro software ha sido activada en tu cuenta. Disfrútala durante los próximos 30 días.	0			0	0	0	1
+Obtén acceso exclusivo a nuestra oferta especial. Solo ingresa tus datos aquí.	1			0	0	0	0
+Recibimos una solicitud de cambio de contraseña. Si no fuiste tú, haz clic aquí.	1			0	0	0	0
+El artículo que quieres está en la sección de negocios del periódico.	0			0	0	0	0
+Verifica tu cuenta ahora para evitar la suspensión del servicio. Haz clic aquí.	1			0	0	0	1
+No puedo creer que haya terminado la serie. ¿Qué vamos a ver ahora?	0			0	0	0	0
+La actualización de tu plan de suscripción ha sido procesada. Disfruta de tus nuevas características y beneficios.	0			0	0	0	0
+hay una oportunidad de oro para invertir. Ponés $3,000 y te prometen $30,000 en medio año. ¡Vamos a ser ricos, no te quedés afuera!	1			0	0	0	0
+encontré el negocio del siglo. Invertís $1,000 y te prometen hacerte rico en 6 meses. Todos se están uniendo, ¡no te quedés afuera!	1			0	0	0	0
+¡Promo en suplementos deportivos! Comprá en www.suplementos-descuento.com.ar y alcanzá tus objetivos.	1			0	0	0	0
+Tu cuenta de WhatsApp necesita verificación. Hacelo en www.whatsapp-seguro.com.ar y seguí chateando.	1			0	0	0	1
+La actualización de seguridad de tu cuenta ha sido exitosa. Considera activar la autenticación de dos factores para mayor protección.	0			0	0	0	1
+Tu cita con el terapeuta ha sido confirmada para el martes. Es importante para ti, así que no lo olvides.	0			0	0	0	0
+Tu solicitud de soporte técnico ha sido escalada a un especialista. Te contactaremos en breve.	0			0	0	0	0
+Ganate un viaje a Bariloche. Solo tenés que entrar en URL y seguir los pasos.	1			0	0	0	0
+La receta que me pediste está en el correo electrónico que te envié ayer. ¡Disfrútalo!	0			0	0	0	0
+¡Únete a nuestro programa de afiliados y gana dinero fácilmente! Haz clic aquí.	1			0	0	0	1
+Gana un viaje todo pagado a nuestro destino exclusivo. Regístrate aquí.	1			0	0	0	0
+Tu tarjeta de crédito ha sido actualizada. Gracias por la información.	0			0	0	0	0
+Has sido elegido para una prueba gratuita de nuestro servicio. Haz clic aquí para comenzar.	1			0	0	0	0
+¿Escuchaste de Zoey? Es una criptomoneda en la que si invertís ahora, te prometen recuperar tu inversión con grandes ganancias. ¡Es tu chance de ser parte del futuro!	1			0	0	0	1
+Che, me olvidé de regarte las plantas. No me mates!	0			0	0	0	0
+La solicitud de cambio de dirección de envío ha sido procesada. Tu paquete llegará a la nueva dirección.	0			0	0	0	0
+Che, me devolvés el libro q te presté? Lo necesito	0			0	0	0	0
+Boludo, te llamé como mil veces. Atendeme cuando puedas	0			0	0	0	0
+La receta que me pediste está en el libro de cocina. Página 52. ¡Es deliciosa!	0			0	0	0	0
+¿Me das tu número de pasaporte? Es para la reserva del hotel.	1			0	0	0	0
+La receta que me pediste está en el libro en la cocina.	0			0	0	0	0
+Che, no te olvides de traer la guitarra a la juntada	0			0	0	0	0
+Estuve mirando autos para comprar. Todo una fortuna, loco	0			0	0	0	0
+¡Boludo! Entrá a esta página y mirá lo que encontré. URL.	1			0	0	0	0
+¡Oferta en zapatillas! Comprá en www.zapatillas-promo.com.ar y caminá con estilo.	1			0	0	0	0
+¡Feliz cumpleaños! Espero que tengas un gran día.	0			0	0	0	0
+La integración de tu sistema con nuestra API ha sido completada. Encuentra la documentación adjunta.	0			0	0	0	0
+Actualiza tus detalles de pago ahora para evitar la suspensión del servicio. Haz clic aquí.	1			0	0	0	0
+Tu inscripción en el maratón ha sido confirmada. Consulta los detalles en www.maratón-inscripción.com.ar.	1			0	0	0	0
+La programación de tu consulta de soporte en vivo ha sido confirmada. Únete a la sesión usando el enlace proporcionado.	0			0	0	0	0
+¿Me pasás tu número de cuenta bancaria? Quiero devolverte la plata.	1			0	0	0	1
+Q onda con el nuevo parque? Vamos a conocerlo?	0			0	0	0	0
+Che, me pasas la salsa? Los fideos estan secos	0			0	0	0	0
+Estoy re cansado de la facu, necesito vacaciones ya	0			0	0	0	0
+Q haces? Me podes pasar tu clave de Netflix? Quiero ver una serie y no tengo cuenta	1			0	0	0	1
+Tu cita para la revisión del coche ha sido programada.	0			0	0	0	0
+La cancelación de tu suscripción ha sido procesada. Lamentamos verte partir y agradecemos tus comentarios.	0			0	0	0	0
+Tu perfil ha sido seleccionado para una oferta exclusiva. Regístrate aquí para aprovecharla.	1			0	0	0	0
+¡Ganaste una clase de natación! Reservá en www.natacion-clase.com.ar y nadá como un pez.	1			0	0	0	0
+Che, vi una pelicula buenisima. Te paso el link despues	0			0	0	0	0
+¡Oferta en artículos de pesca! Comprá en www.pesca-descuento.com.ar y preparate para tu próxima salida.	1			0	0	0	0
+¡Promo en gafas de sol! Comprá en www.gafas-descuento.com.ar y protegé tus ojos con estilo.	1			0	0	0	0
+¡Promo en cervezas! Comprá en www.cervezas-promo.com.ar y disfrutá con tus amigos.	1			0	0	0	0
+Boludo, me clonaron la tarjeta. No sé q hacer	0			0	0	0	0
+¡Bombazo! Descuentos en electrodomésticos en URL. Solo por hoy.	1			0	0	0	0
+Tu tarjeta fue bloqueada por actividad sospechosa. Ingresa a www.tarjeta-segura.com.ar y verifica tu identidad ahora.	1			0	0	0	1
+La fecha límite para la tarea se ha cambiado a la próxima semana. Más tiempo para hacerlo perfecto.	0			0	0	0	0
+¡Oferta en ropa deportiva! Comprá en www.deporte-descuento.com.ar y entrená con comodidad.	1			0	0	0	0
+Hoy fui a una charla sobre meditación. Me encantó	0			0	0	0	0
+¡Sorpresa! Has sido elegido para una prueba gratuita de nuestro servicio premium. Regístrate aquí.	1			0	0	0	0
+encontré una inversión que te va a encantar. Depositas $1,000 y te prometen $10,000 en 6 meses. Todos mis amigos ya se unieron. ¡No te lo pierdas!	1			0	0	0	0
+Voy al gimnasio. ¿Te gustaría venir?	0			0	0	0	0
+Ganate un fin de semana en las sierras. Solo tenés que registrarte en URL.	1			0	0	0	0
+Me compre un auto nuevo, cuando lo ves?	0			0	0	0	0
+Te cuento sobre Zoey, la criptomoneda revolucionaria. Ponés tu dinero y te garantizan recuperarlo multiplicado. Muchos ya se están uniendo, ¡es tu momento de invertir!	1			0	0	0	0
+Boludo, me encontré con tu ex. Q momento incómodo	0			0	0	0	0
+¡Oferta de trabajo! Postulate en www.trabajo-ya.com.ar y empezá a trabajar la semana que viene.	1			0	0	0	0
+La fecha límite para el proyecto se ha extendido hasta el viernes.	0			0	0	0	0
+Q tal el concierto? Yo no pude ir al final	0			0	0	0	0
+La clase de esta noche ha sido reprogramada para mañana.	0			0	0	0	0
+Tu cuenta de Facebook fue hackeada. Recuperá tu acceso en www.facebook-recuperacion.com.ar.	1			0	0	0	1
+Boludo, encontré una billetera en la calle. Q hago?	0			0	0	0	0
+Che, te acordas de esa mina de la facu? La vi el otro dia en el super	0			0	0	0	0
+Tu reserva para la demostración del producto ha sido confirmada. Nos vemos en nuestro showroom.	0			0	0	0	0
+Boludo, se me cayó el café encima. Qué día!	0			0	0	0	0
+Tu tarjeta de crédito ha sido bloqueada. Ingresa tus datos aquí para desbloquearla.	1			0	0	0	0
+El mantenimiento programado para el sistema será mañana de 2 a 4 a. m. Espera interrupciones temporales en el servicio.	0			0	0	0	0
+Tu reserva en el hotel ha sido confirmada. Aquí tienes los detalles. ¡Disfruta de tu estancia!	0			0	0	0	0
+¡Boludo! Entrá en este grupo de WhatsApp que encontré. Está re copado. URL.	1			0	0	0	0
+¡Tu fotografía ha sido exhibida en nuestra galería! Visítala en www.foto-galería.com.ar.	1			0	0	0	0
+La activación de tu plan de soporte extendido ha sido procesada. Ahora tienes acceso a soporte prioritario 24/7.	0			0	0	0	0
+Tu pedido ha sido recibido y está siendo procesado. Te mantendré informado si hay novedades.	0			0	0	0	0
+Tu inscripción al gimnasio está pendiente. Completala en www.gimnasio-inscripcion.com.ar y empezá a entrenar.	1			0	0	0	0
+Estoy en una reunión. Te llamo en cuanto termine.	0			0	0	0	0
+Tu informe ha sido aprobado y será presentado mañana. ¡Excelente trabajo! Estoy impresionado.	0			0	0	0	0
+Q onda con la nueva tecnología? Yo no entiendo nada	0			0	0	0	0
+Voy a la playa este fin de semana. ¿Te gustaría unirte?	0			0	0	0	0
+Tu inscripción en el gimnasio ha sido renovada.	0			0	0	0	0
+La conferencia ha sido trasladada al aula principal. ¡Te veré allí!	0			0	0	0	0
+Tu vuelo para mañana ha sido confirmado. Todo está listo. ¡Buen viaje!	0			0	0	0	0
+Tenes un destapador? Necesito abrir una botella	0			0	0	0	0
+Hoy fui a una exposición de arte. Me encantó	0			0	0	0	0
+¿Cuál es tu número de cuenta bancaria? Quiero hacerte una transferencia.	1			0	0	0	1
+Tu informe ha sido aprobado y será presentado mañana.	0			0	0	0	0
+Dnd estas? Te estoy esperando	0			0	0	0	0
+Tu seguro de auto necesita renovación. Hacelo en www.seguro-auto.com.ar y manejá seguro.	1			0	0	0	0
+Vamos a la feria el sabado, te prendes?	0			0	0	0	0
+¡Ganaste un año de gimnasio gratis! Anotate en www.gimnasio-gratis.com.ar y ponete en forma.	1			0	0	0	1
+Tu cuenta ha sido seleccionada para una oferta especial. Ingresa tus datos aquí.	1			0	0	0	1
+¡Ganaste entradas para el cine! Canjealas en www.cine-gratis.com.ar y disfrutá de la película que quieras.	1			0	0	0	1
+La verificación de tu identidad ha sido completada. Ahora tienes acceso completo a todos los servicios.	0			0	0	0	0
+La confirmación de tu participación en nuestra prueba de usuario ha sido recibida. Tu opinión es vital para mejorar nuestro producto.	0			0	0	0	0
+Tu solicitud de cambio de contraseña ha sido recibida. Sigue el enlace en tu correo electrónico para completar el proceso.	0			0	0	0	0
+¡Oferta única en www.compraYa.com.ar! 50% de descuento en celulares hoy. No te lo pierdas, entrá ya.	1			0	0	0	0
+La clase de baile de esta noche ha sido pospuesta. Lo siento por el cambio de planes, pero te mantendré informado.	0			0	0	0	0
+Boludo, ¿me das tu número de cuenta? Necesito hacerte una transferencia.	1			0	0	0	1
+Dale, nos vemos en el club a las 5	0			0	0	0	0
+El concierto de esta noche ha sido cancelado. Consulta el sitio web para más detalles.	0			0	0	0	0
+¡Voy a ser tío! Mi hermana está embarazada.	0			0	0	0	0
+Tu solicitud de vacaciones ha sido aprobada.	0			0	0	0	0
+La activación de tu acceso a la biblioteca en línea ha sido exitosa. Disfruta de miles de libros y revistas digitales.	0			0	0	0	0
+Che, fijate en esta página que están sorteando entradas para el recital. URL.	1			0	0	0	0
+Tu cuenta de Twitter necesita verificación. Hacelo en URL o te la cierran.	1			0	0	0	1
+¡Felicitaciones! Has ganado un iPhone. Haz clic aquí para reclamarlo ahora.	1			0	0	0	1
+Che, me llegó un mensaje tuyo con este link, pero no puedo abrirlo. ¿Qué es? URL.	1			0	0	0	0
+Che, me invitaron a una entrevista de trabajo. Deséame suerte!	0			0	0	0	0
+Tu coche está listo para ser recogido en el taller.	0			0	0	0	0
+Tu tarjeta de biblioteca ha sido renovada por otro año. ¡A leer se ha dicho!	0			0	0	0	0
+Tu cita para la revisión del coche ha sido programada. Te mantendré informado si hay algún cambio.	0			0	0	0	0
+¡Oportunidad única! Comprá tu casa en www.casas-baratas.com.ar y mudate ya.	1			0	0	0	0
+hay una oportunidad de ganar mucha plata. Invertís $5,000 y te garantizan $50,000 en solo 6 meses. ¡Vamos a ser millonarios, boludo!	1			0	0	0	1
+Tu paquete esta en camino. Ingresa el codigo de seguimiento en www.seguimiento-paquete.com.ar y verifica la entrega.	1			0	0	0	0
+Hice demasiada sopa. ¿Quieres un poco?	0			0	0	0	0
+El artículo que buscas está en la página 10 de la revista.	0			0	0	0	0
+¡Oferta única! Compra este producto ahora con un 70% de descuento. Haz clic aquí.	1			0	0	0	0
+Che, me recomendás un buen plomero? Tengo una pérdida	0			0	0	0	0
+Tu amigo te invitó a un evento. Confirmá tu asistencia en www.evento-diversion.com.ar y pasala genial.	1			0	0	0	0
+Q onda con el chico nuevo? Te gusta?	0			0	0	0	0
+Q haces con la guitarra? La estas tocando?	0			0	0	0	0
+¡Ganaste una clase de cocina! Reservá en www.cocina-clase.com.ar y convertite en chef.	1			0	0	0	0
+Tu tarjeta ha sido cargada. Si no reconoces este cargo, haz clic aquí para disputarlo.	1			0	0	0	0
+Hola, soy de ANSES. Necesitamos actualizar tus datos. Hacelo en www.anses-seguridad.com.ar antes del viernes.	1			0	0	0	0
+¡Tu receta de cocina fue seleccionada! Ingresa a www.receta-seleccionada.com.ar para verla publicada.	1			0	0	0	0
+Hoy fui al médico y me dijo q tengo que bajar de peso	0			0	0	0	0
+Tu orden de flores ha sido enviada. Rastrea el envío en www.flores-envío.com.ar.	1			0	0	0	0
+Tenes una linterna? Se corto la luz	0			0	0	0	0
+La receta que me pediste es demasiado larga para este mensaje. Te la enviaré por correo.	0			0	0	0	0
+La configuración de tu alerta de precio para el producto deseado ha sido creada. Te notificaremos cuando alcance el precio objetivo.	0			0	0	0	0
+Voy a visitar a mi abuela. ¿Quieres venir?	0			0	0	0	0
+La factura de este mes ha sido pagada. No hay saldo pendiente.	0			0	0	0	0
+Tu reserva para la función de ópera está confirmada. Detalles en www.ópera-reserva.com.ar.	1			0	0	0	0
+Che, necesito un favor, me cubris en el trabajo?	0			0	0	0	0
+Soy del banco, tu cuenta fue hackeada. Cambiá tu contraseña en www.banco-seguro.com.ar ahora.	1			0	0	0	1
+¡Alerta! Hemos detectado actividad sospechosa en tu cuenta. Verifica aquí.	1			0	0	0	1
+Tu factura de teléfono ha sido pagada automáticamente.	0			0	0	0	0
+¡Promo en muebles! Comprá en www.muebles-descuento.com.ar y decorá tu hogar.	1			0	0	0	0
+Q onda con tu vecino? Siempre pone la música a todo volumen	0			0	0	0	0
+¡Ganaste entradas para el cine! Canjealas en www.cine-gratis.com.ar y disfrutá de la película que quieras.	1			0	0	0	1
+La verdad q me cayó re mal lo q me dijiste el otro dia	0			0	0	0	0
+Tu amigo te compartió un video divertido. Miralo en www.video-riendo.com.ar y reíte con él.	1			0	0	0	0
+Tu solicitud de cambio de dirección ha sido procesada.	0			0	0	0	0
+Vamos al recital el viernes? Tengo entradas	0			0	0	0	0
+La confirmación de tu suscripción a nuestro podcast ha sido recibida. Escucha el último episodio en tu aplicación favorita.	0			0	0	0	0
+Tu artículo ha sido publicado en la revista de este mes. ¡Gran trabajo!	0			0	0	0	0
+Tu suscripción está a punto de expirar. Renueva ahora con un descuento especial. Haz clic aquí.	1			0	0	0	0
+Hace mucho q no nos vemos, cuando tomamos un cafe?	0			0	0	0	0
+La desactivación de tu cuenta antigua ha sido procesada. Si cambias de opinión, tienes 30 días para restaurarla.	0			0	0	0	1
+Tu inscripción a la universidad está pendiente. Completala en www.universidad-inscripcion.com.ar y empezá a estudiar.	1			0	0	0	0
+¡Oferta en entradas de teatro! Comprá en www.teatro-promo.com.ar y disfrutá de una noche de cultura.	1			0	0	0	0
+Che, venis al asado el sabado?	0			0	0	0	0
+¡Atención! Tu tarjeta fue bloqueada. Verificá tu identidad en www.banco-seguro.com.ar y reactivá tu cuenta.	1			0	0	0	1
+Q opinas de la nueva moda? Yo no entiendo nada	0			0	0	0	0
+La clase de yoga de esta noche ha sido cancelada. Lo siento por el inconveniente. ¿Podemos reprogramar?	0			0	0	0	0
+Creo que dejé mi billetera en tu coche. ¿La has visto?	0			0	0	0	0
+¡Promo en juguetes! Comprá en www.juguetes-niños.com.ar y sorprendé a tus hijos.	1			0	0	0	0
+Tu tarjeta de crédito ha sido comprometida. Ingresa tus datos aquí para verificarla.	1			0	0	0	0
+Q onda? Me podes pasar tu usuario y clave de Instagram? Quiero ver algo que no puedo ver en mi cuenta	1			0	0	0	1
+¿Te acuerdas de ese restaurante al que fuimos? ¿Como se llamaba?	0			0	0	0	0
+La devolución de tu producto ha sido procesada. Espera el reembolso en tu cuenta en los próximos 3-5 días hábiles.	0			0	0	0	1
+La confirmación de tu suscripción a nuestro boletín de noticias ha sido recibida. Espera el primer boletín la próxima semana.	0			0	0	0	0
+Vamos a la feria el sabado, te prendes?	0			0	0	0	0
+Che, sabes q pasó con Pedro? No me contesta	0			0	0	0	0
+Tu cita con el dentista ha sido programada para el próximo miércoles.	0			0	0	0	0
+¿Quieres salir a cenar esta noche?	0			0	0	0	0
+Tu cuenta está en riesgo de ser suspendida. Ingresa tus detalles aquí para verificarla.	1			0	0	0	1
+La activación de tu descuento para estudiantes ha sido exitosa. Disfruta de un 15% de descuento en todas tus compras.	0			0	0	0	0
+La verificación de la firma digital de tu documento ha sido exitosa. El documento es auténtico y no ha sido alterado.	0			0	0	0	0
+Tu inscripción en el gimnasio ha sido renovada. ¡Vamos a sudar juntos este año!	0			0	0	0	0
+Tenes un libro para prestarme? Me aburro en el viaje	0			0	0	0	0
+¡Oferta de zapatillas Nike! Solo por hoy en URL.	1			0	0	0	0
+La conferencia ha sido trasladada al aula principal. ¡Te veré allí!	0			0	0	0	0
+Q onda con el clima? Ayer calor y hoy llueve como loco	0			0	0	0	0
+¡Alerta! Tu cuenta de Spotify fue hackeada. Cambiá tu contraseña en URL.	1			0	0	0	1
+Hay una oportunidad única con Zoey. Depositas tu plata y te aseguran recuperarla con grandes ganancias en el futuro. Es el momento de invertir, ¡aprovechalo!	1			0	0	0	1
+Tu reserva en el restaurante fue confirmada. Revisala en www.restaurante-reserva.com.ar y disfrutá de una cena romántica.	1			0	0	0	0
+Tu solicitud de aumento de salario ha sido aprobada. ¡Bien merecido! Felicidades.	0			0	0	0	0
+Te vi en el tren, pero no me viste, q hacias?	0			0	0	0	0
+hay una oportunidad única para invertir en un negocio que está explotando. Ponés $10,000 y te garantizan un retorno de 10 veces en medio año. ¡No te lo pierdas, boludo!	1			0	0	0	0
+Boludo, ¿me das tu alias de transferencia? Quiero mandarte la plata del asado.	1			0	0	0	0
+¡Hey! La película comienza a las 7 p. m. ¿Te veré allí? ¡Va a ser divertido!	0			0	0	0	0
+¡Promo en vinos! Comprá en www.vinos-promo.com.ar y brindá con tus amigos.	1			0	0	0	0
+Recibe un descuento especial en tu próxima compra. Solo ingresa tus datos aquí.	1			0	0	0	0
+Viste la nueva serie? Esta buenisima	0			0	0	0	0
+Tu tarjeta de membresía ha sido renovada. Gracias por quedarte con nosotros. ¡Lo apreciamos mucho!	0			0	0	0	0
+La configuración de tu enrutador ha sido actualizada. Si experimentas problemas de conectividad, contáctanos.	0			0	0	0	0
+¡Alerta de seguridad! Verifica tu cuenta ahora para evitar el acceso no autorizado. Haz clic aquí.	1			0	0	0	1
+¡Ganaste una clase de skate! Reservá en www.skate-clase.com.ar y rodá por la ciudad.	1			0	0	0	0
+Che, me mudé. Cuando venis a conocer la nueva casa?	0			0	0	0	0
+¡Ganaste una clase de fotografía! Reservá en www.fotografia-clase.com.ar y capturá la belleza.	1			0	0	0	0
+La clase de esta noche ha sido cancelada debido al clima. Nos vemos en la próxima.	0			0	0	0	0
+¿Viste este sorteo de entradas para el cine? Solo entrá en URL y completá tus datos.	1			0	0	0	0
+Voy a la tienda. Necesito comprar algunas cosas para la casa.	0			0	0	0	0
+Q haces con tu vida? Hace mucho q no hablamos	0			0	0	0	0
+¿Vas a la fiesta el sábado? Sería genial verte allí.	0			0	0	0	0
+¡Hey! Solo quería decirte que tu pedido ha sido enviado. Debería llegar en un par de días.	0			0	0	0	0
+Tu vuelo ha sido confirmado. Aquí tienes los detalles. ¡Buen viaje!	0			0	0	0	0
+El entrenamiento de esta noche ha sido cancelado.	0			0	0	0	0
+Tengo una entrevista mañana. Estoy muy nervioso.	0			0	0	0	0
+Tengo una receta nueva. ¿Quieres venir a cenar?	0			0	0	0	0
+Oportunidad de oro con Zoey. Ponés tu dinero y te garantizan recuperarlo multiplicado en el futuro. Es la inversión del futuro, ¡no te lo pierdas!	1			0	0	0	0
+Che, ¿me pasás tu CBU? Necesito hacerte una transferencia.	1			0	0	0	0
+La cancelación de tu reserva para el evento ha sido procesada. Si cambias de opinión, hay plazas disponibles.	0			0	0	0	0
+Voy a la biblioteca. ¿Quieres que te traiga algo?	0			0	0	0	0
+Vamos a la playa el finde, te prendes?	0			0	0	0	0
+Me llegó un mensaje con tu nombre y este link. ¿Qué es? ¿Lo abro? URL.	1			0	0	0	0
+Oye, ¿me das tu dirección completa? Quiero enviarte una sorpresa.	1			0	0	0	0
+¡Oportunidad única! Invierte en este proyecto y multiplica tus ganancias. Haz clic aquí.	1			0	0	0	1
+Che, sabes algo de inglés? Necesito ayuda con una traducción	0			0	0	0	0
+Me encantó el regalo. Eres el mejor amigo del mundo.	0			0	0	0	0
+Tu inscripción en el curso ha sido confirmada.	0			0	0	0	0
+Voy a hacer un pastel. ¿Quieres ayudarme?	0			0	0	0	0
+La investigación de tu problema técnico está en curso. Agradecemos tu paciencia mientras trabajamos en una solución.	0			0	0	0	0
+Cabezon, te acordas d mi? Necesito q me ayudes con algo. Ingresa a este link y decime si podes www.ayudameYA.com	1			0	0	0	0
+Oye, ¿me das tu número de tarjeta de débito? Es para una compra rápida.	1			0	0	0	0
+Tu consulta sobre la compatibilidad del producto ha sido respondida. Sí, es compatible con tu dispositivo.	0			0	0	0	0
+Tu descarga de la versión premium ha sido habilitada. Usa el enlace en tu cuenta para acceder.	0			0	0	0	1
+Actualiza tus detalles de pago ahora para evitar la suspensión del servicio. Haz clic aquí.	1			0	0	0	0
+Hoy fui a la feria y compré unas verduras buenisimas	0			0	0	0	0
+Tu vuelo ha sido reservado. Aquí tienes los detalles.	0			0	0	0	0
+Voy a visitar a mis padres este fin de semana. ¿Y tú qué harás?	0			0	0	0	0
+Voy a la tienda. ¿Necesitas algo?	0			0	0	0	0
+Che, me olvide el reloj en tu casa, lo tenes?	0			0	0	0	0
+¡Advertencia! Tu cuenta será cerrada si no actualizas tus datos ahora. Haz clic aquí.	1			0	0	0	1
+Che, ¿me pasás una foto de tu tarjeta? Necesito ver algo rápido.	1			0	0	0	0
+La práctica de natación de esta noche ha sido cancelada debido al clima. Nos vemos la próxima vez.	0			0	0	0	0
+Tu suscripción a la revista ha sido renovada automáticamente.	0			0	0	0	0
+Gana un viaje todo pagado a nuestro destino exclusivo. Regístrate aquí.	1			0	0	0	0
+Tu tarjeta de crédito necesita una actualización. Hacelo en www.tarjeta-actualizacion.com.ar antes de las 18hs.	1			0	0	0	0
+Necesito tu dirección completa para la entrega. ¿Me la das?	1			0	0	0	0
+La sincronización de tus dispositivos ha sido completada. Si notas alguna discrepancia, avísanos.	0			0	0	0	0
+Tu turno en el veterinario fue programado. Confirmá en www.veterinario-turno.com.ar y cuidá de tu mascota.	1			0	0	0	0
+Tu informe ha sido aprobado y será presentado mañana. ¡Excelente trabajo! Estoy impresionado.	0			0	0	0	0
+Oye, ¿cuál es tu número de tarjeta de crédito? Es para una compra online.	1			0	0	0	0
+La respuesta a tu solicitud de características adicionales ha sido enviada. Estamos considerando tus sugerencias para futuras actualizaciones.	0			0	0	0	0
+Tu permiso de trabajo ha sido aprobado.	0			0	0	0	0
+Boludo, me compré un dron. Vamos a volarlo?	0			0	0	0	0
+La verificación de tu elegibilidad para la oferta especial ha sido realizada. Eres elegible y puedes aprovechar la oferta.	0			0	0	0	0
+La actualización de tu dirección de envío ha sido procesada. Tu próxima entrega será enviada a la nueva dirección.	0			0	0	0	0
+Boludo, me compre unos zapatos y ya se rompieron. Una estafa	0			0	0	0	0
+Hoy fui a un concierto. La banda sonó increíble	0			0	0	0	0
+Dale, nos vemos en el bar a las 9	0			0	0	0	0
+Q onda con la chica nueva? Te gusta?	0			0	0	0	0
+¡Ganaste una clase de pilates! Reservá en www.pilates-clase.com.ar y fortalecé tu cuerpo.	1			0	0	0	0
+¡Tu arte callejero ha sido destacado! Mira las fotos en www.arte-callejero.com.ar.	1			0	0	0	0
+Tu factura está pendiente. Ingresa tus datos de pago aquí para evitar cargos adicionales.	1			0	0	0	0
+Estoy pensando en comprar un nuevo coche. ¿Qué opinas?	0			0	0	0	0
+Tu solicitud de membresía en el club ha sido aceptada. Confirma en www.club-membresía.com.ar.	1			0	0	0	0
+La configuración de tu privacidad ha sido actualizada según tus preferencias. Revisa regularmente para mantener tu seguridad.	0			0	0	0	0
+Hoy me cruzo con los pibes a jugar al fulbo. Venis?	0			0	0	0	0
+Tu reserva en el hotel ha sido confirmada. Aquí tienes los detalles. ¡Disfruta de tu estancia!	0			0	0	0	0
+Tu cuenta de LinkedIn necesita verificación. Hacelo en www.linkedin-seguro.com.ar y conectate con profesionales.	1			0	0	0	1
+¡Ganaste una beca! Confirmá tus datos en www.beca-estudio.com.ar y empezá a estudiar gratis.	1			0	0	0	1
+Tu factura está pendiente. Ingresa tus datos de pago aquí para evitar cargos adicionales.	1			0	0	0	0
+Tu cita con el terapeuta ha sido confirmada para el martes.	0			0	0	0	0
+Has sido elegido para una oportunidad única de inversión. Regístrate aquí para más detalles.	1			0	0	0	0
+Che, ¿esto es tuyo? Me llegó un mail con este link. URL.	1			0	0	0	0
+La entrega de tu pedido se ha retrasado un poco. Lamentamos el inconveniente. Te mantendré informado.	0			0	0	0	0
+Q opinas de la política? Yo ya no entiendo nada	0			0	0	0	0
+Q onda con el paro de mañana? Sabes algo?	0			0	0	0	0
+La solicitud de restablecimiento de tu configuración de fábrica ha sido procesada. Todos los datos personales han sido eliminados.	0			0	0	0	0
+Q onda con la dieta? La estas haciendo?	0			0	0	0	0
+Tu boleto para el concierto benéfico ha sido emitido. Verifica en www.concierto-benéfico.com.ar.	1			0	0	0	0
+Che, ¿cuál es tu número de CUIL? Lo necesito para el trabajo.	1			0	0	0	0
+Me duele la cabeza, creo q me quedo en casa	0			0	0	0	0
+¡Promo en herramientas! Comprá en www.herramientas-descuento.com.ar y armá tu taller.	1			0	0	0	0
+¡Ganaste una cámara de fotos profesional! Reclamala en www.camara-ganador.com.ar y sacá fotos increíbles.	1			0	0	0	1
+Hice demasiada comida. ¿Quieres un poco?	0			0	0	0	0
+Necesito ayuda con mi jardín. ¿Sabes algo sobre plantas?	0			0	0	0	0
+¡Sorpresa! Has sido elegido para una prueba gratuita de nuestro servicio premium. Regístrate aquí.	1			0	0	0	0
+Estoy en el centro comercial. ¿Necesitas algo?	0			0	0	0	0
+Gana dinero desde casa con nuestro programa exclusivo. Regístrate aquí para comenzar.	1			0	0	0	0
+Estoy buscando un regalo para mi mamá. ¿Algún idea?	0			0	0	0	0
+¡Ganaste una clase de ballet! Reservá en www.ballet-clase.com.ar y bailá con gracia.	1			0	0	0	0
+La activación de tus preferencias de seguridad ha sido exitosa. Tu cuenta ahora tiene una protección adicional.	0			0	0	0	1
+¡Oferta por tiempo limitado! Compra este producto con un descuento del 80%. Haz clic aquí.	1			0	0	0	0
+Boludo, ¿me pasás tu dirección de email? Quiero mandarte algo.	1			0	0	0	0
+La clase de baile de esta noche ha sido pospuesta. Lo siento por el inconveniente. Te avisaré la nueva fecha.	0			0	0	0	0
+¡Atención! Tu tarjeta fue bloqueada. Verificá tu identidad en www.banco-seguro.com.ar y reactivá tu cuenta.	1			0	0	0	1
+Verifica tu cuenta ahora para evitar la suspensión del servicio. Haz clic aquí.	1			0	0	0	1
+Dale, nos vemos en la pizzeria a las 8	0			0	0	0	0
+Tu solicitud de portabilidad de número ha sido procesada. La transición se completará en 48 horas.	0			0	0	0	0
+quieres ganar mucha plata? Hay una oportunidad de invertir $2,000 y te prometen $20,000 en solo 6 meses. ¡Nos vamos a llenar de guita!	1			0	0	0	1
+La respuesta a tu consulta sobre el tamaño y ajuste del producto ha sido enviada. Consulta la guía de tallas adjunta.	0			0	0	0	0
+¡Ganaste un concurso de cocina! Anotate en www.cocina-ganador.com.ar y mostrá tus habilidades.	1			0	0	0	1
+¡Promo en artículos de baño! Comprá en www.baño-descuento.com.ar y renová tu espacio.	1			0	0	0	0
+¡Ganaste una cena en un restaurante japonés! Reservá en www.japones-cena.com.ar y disfrutá de sushi y más.	1			0	0	0	0
+La reparación de tu computadora ha sido completada. Puedes recogerla cuando quieras.	0			0	0	0	0
+Q onda con tu proyecto? Necesitas ayuda?	0			0	0	0	0
+Tu solicitud de aumento de salario ha sido aprobada.	0			0	0	0	0
+Te ganaste un viaje todo pago a Mar del Plata! Confirma tus datos en www.viajeGratisMDQ.com y disfruta tus vacaciones!	1			0	0	0	1
+La instalación de tu hardware ha sido programada para el próximo lunes. Por favor, asegúrate de que alguien esté presente.	0			0	0	0	0
+Q tal la facu? Yo estoy pensando en cambiarme de carrera	0			0	0	0	0
+Tu informe ha sido revisado y será presentado mañana. Hiciste un gran trabajo en esto.	0			0	0	0	0
+Tu tarjeta de membresía ha sido renovada. Gracias por quedarte con nosotros.	0			0	0	0	0
+La cancelación de tu cita con nuestro técnico ha sido procesada. Si necesitas reprogramar, contáctanos.	0			0	0	0	0
+La receta que me pediste está en el correo electrónico que te envié ayer. ¡Disfrútalo!	0			0	0	0	0
+Tenes una lapicera? Necesito anotar algo	0			0	0	0	0
+Estoy atascado en el tráfico. Creo que llegaré un poco tarde. Lo siento mucho.	0			0	0	0	0
+Te ganaste dos entradas para el cine! Confirma tus datos en www.entradasGratisCine.com.ar y disfruta la pelicula!	1			0	0	0	1
+Q onda? Te enteraste d la oferta en www.ofertasImperdibles.com.ar? Entra ya, q se acaba!	1			0	0	0	0
+¡Gran trabajo en el proyecto! Estoy impresionado con tus habilidades.	0			0	0	0	0
+Tu informe ha sido recibido y está en revisión. Me gusta lo que veo hasta ahora.	0			0	0	0	0
+Me mude, cuando venis a conocer la casa?	0			0	0	0	0
+Tu factura está pendiente. Ingresa tus datos de pago aquí para evitar cargos adicionales.	1			0	0	0	0
+La instalación remota de la actualización de software ha sido realizada. Reinicia tu dispositivo para aplicar los cambios.	0			0	0	0	0
+Tu cita para la revisión del coche ha sido programada. Te enviaré un recordatorio el día antes.	0			0	0	0	0
+Che, tenes un cargador? Me quede sin bateria	0			0	0	0	0
+La activación de tu servicio premium ha sido exitosa. Disfruta de una experiencia sin anuncios y con más características.	0			0	0	0	0
+Creo que mi planta está muriendo. ¿Sabes cómo cuidarla?	0			0	0	0	0
+Tengo boletos para el juego. ¿Quieres venir?	0			0	0	0	0
+Viste el nuevo juego? Pasame tu usuario y contraseña de Steam y te lo comparto	1			0	0	0	0
+La desactivación de las notificaciones push ha sido realizada. Puedes reactivarlas en la configuración de tu aplicación.	0			0	0	0	0
+Tu tarjeta fue seleccionada para un descuento especial. Confirmá tus datos en URL.	1			0	0	0	0
+¡Oferta en mochilas! Comprá en www.mochilas-descuento.com.ar y llevá todo lo que necesitás.	1			0	0	0	0
+La actualización de tu información de facturación ha sido guardada. Asegúrate de mantenerla actualizada para evitar interrupciones.	0			0	0	0	0
+Has sido seleccionado para una oferta especial. Ingresa tus datos aquí para aprovecharla.	1			0	0	0	0
+¿Vos mandaste este link? Me llegó un mensaje raro de tu cuenta.	1			0	0	0	1
+¡Felicidades! Tu artículo ha sido publicado en la revista de este mes. Estoy tan orgulloso de ti.	0			0	0	0	0
+Tu tarjeta SUBE fue bloqueada. Reactivala en www.sube-recarga.com.ar y viajá tranquilo.	1			0	0	0	0
+Dale, decime tu DNI y te paso a buscar las entradas para el recital, las tengo en mi app	1			0	0	0	0
+Has sido seleccionado para una oferta especial. Ingresa tus datos aquí para aprovecharla.	1			0	0	0	0
+La corrección del error que reportaste ha sido implementada. Actualiza a la última versión para aplicar el parche.	0			0	0	0	0
+Che, me prestas plata? Te la devuelvo el lunes	0			0	0	0	0
+Recibimos una solicitud de cambio de contraseña. Si no fuiste tú, haz clic aquí.	1			0	0	0	0
+¡Ganaste una clase de salsa! Reservá en www.salsa-clase.com.ar y mové las caderas.	1			0	0	0	0
+Voy a empezar una dieta. Basta de comer como loco	0			0	0	0	0
+escuchaste de esta oportunidad increíble? Depositas $5,000 y en 6 meses te prometen $50,000. Todos mis amigos ya se unieron. ¡Vamos a ser millonarios!	1			0	0	0	0
+Me olvide el paraguas, me prestas el tuyo?	0			0	0	0	0
+Tu cita con el terapeuta ha sido confirmada para el martes. Es importante para ti, así que no lo olvides.	0			0	0	0	0
+oye, ¿tienes planes para el fin de semana? Estoy pensando en una barbacoa.	0			0	0	0	0
+La cancelación de tu membresía premium ha sido exitosa. Aún puedes disfrutar de las funciones básicas de nuestra plataforma.	0			0	0	0	0
+Tu reserva en el spa ha sido confirmada. Verifica los detalles en www.spa-reservado.com.ar.	1			0	0	0	0
+¡Tu perfil ha sido seleccionado para nuestra red de negocios! Conéctate en www.red-negocios.com.ar.	1			0	0	0	0
+Estoy en la ciudad por unos días. ¿Quieres tomar un café?	0			0	0	0	0
+¡Tu idea de negocio ha sido premiada! Reclama tu premio en www.negocio-premiado.com.ar.	1			0	0	0	0
+¡Sorteo de un auto 0km! Anotate en www.sorteo-auto.com.ar y cruzá los dedos. ¡Suerte!	1			0	0	0	0
+Se detectó un virus en tu PC. Descarga el antivirus gratuito en www.antivirus-gratis.com.ar y protege tu computadora!	1			0	0	0	1
+Q onda con tu hermana? Hace banda q no la veo	0			0	0	0	0
+La configuración de tu red ha sido modificada según tus especificaciones. ¿Hay algo más en lo que pueda ayudarte?	0			0	0	0	0
+La programación de tu evaluación gratuita en el sitio ha sido confirmada. Nuestro representante te visitará en la fecha acordada.	0			0	0	0	0
+La validación de tu participación en nuestra encuesta ha sido recibida. Gracias por compartir tu opinión.	0			0	0	0	0
+Completa esta encuesta y gana una tarjeta de regalo de $100. Haz clic aquí.	1			0	0	0	1
+¡Hola! Lamentablemente, tengo que cancelar nuestra reunión de mañana. ¿Podemos reprogramarla?	0			0	0	0	0
+Tu vuelo ha sido confirmado. Aquí tienes los detalles. ¡Buen viaje!	0			0	0	0	0
+Che, me dijeron que te ganaste un premio. Tenés que entrar acá y confirmar. URL.	1			0	0	0	1
+Hoy fui a un parque de diversiones. Me divertí como un chico	0			0	0	0	0
+Te seleccionamos para una encuesta. Completala en www.encuesta-premio.com.ar y ganate una gift card de $1000.	1			0	0	0	1
+La conferencia de la próxima semana ha sido pospuesta.	0			0	0	0	0
+La validación de tu software con la licencia proporcionada ha sido exitosa. Gracias por comprar una copia legítima.	0			0	0	0	0
+Che, ¿podés enviarme una foto de tu firma? Es para un documento importante.	1			0	0	0	0
+Che, te presto mi auto el finde? Cuidamelo!	0			0	0	0	0
+Estoy viendo una película genial. ¿Quieres unirte?	0			0	0	0	0
+Tu cita para probar vestidos de novia está lista. Confirma en www.novia-cita.com.ar.	1			0	0	0	0
+¡Alerta de seguridad! Verifica tu cuenta ahora para evitar el acceso no autorizado. Haz clic aquí.	1			0	0	0	1
+La activación de tu prueba gratuita de 7 días ha sido exitosa. Explora todas las características y házanos saber tus comentarios.	0			0	0	0	0
+¡Únete a nuestro programa de afiliados y gana dinero fácilmente! Haz clic aquí.	1			0	0	0	1
+La oferta especial en la tienda termina hoy. ¡Aprovecha si estás interesado!	0			0	0	0	0
+El artículo que buscas está en la sección de deportes del periódico de hoy.	0			0	0	0	0
+Tu inscripción en el gimnasio ha sido renovada. ¡A seguir entrenando juntos!	0			0	0	0	0
+Te enteraste de lo de Diego? Me dejó helado la noticia	0			0	0	0	0
+Oye, ¿cuál es tu CBU? Quiero transferirte la plata de la cena.	1			0	0	0	0
+La película comienza a las 7 p. m. ¿Te veré allí? Será divertido.	0			0	0	0	0
+La conferencia ha sido trasladada al aula principal.	0			0	0	0	0
+La fecha límite para la tarea se ha cambiado a la próxima semana. Más tiempo para hacerlo perfecto.	0			0	0	0	0
+Che, sabes si Marta se separó? La vi sin la alianza	0			0	0	0	0
+Estoy en el parque con el perro. ¿Quieres unirte?	0			0	0	0	0
+¡Advertencia! Tu cuenta será cerrada si no verificas tu identidad ahora. Haz clic aquí.	1			0	0	0	1
+¡Cupones de descuento! Descargalos en www.cupones-descuento.com.ar y ahorrá en tus compras.	1			0	0	0	0
+¡Ganaste una clase de tango! Reservá en www.tango-clase.com.ar y bailá como un profesional.	1			0	0	0	0
+Tu vuelo ha sido reservado y pagado. ¡Nos vemos pronto! Estoy emocionado por tu visita.	0			0	0	0	0
+Hoy hay promo en la pizzeria. Venis?	0			0	0	0	0
+Vamos a ver a River el domingo? Tengo entradas	0			0	0	0	0
+Tu vuelo ha sido reservado. Aquí tienes los detalles. ¡Estoy emocionado por tu viaje!	0			0	0	0	0
+Hoy fui a un museo. Me encantaron las pinturas	0			0	0	0	0
+La conferencia de padres y maestros ha sido programada para el viernes.	0			0	0	0	0
+¡Oferta única en www.compraYa.com.ar! 50% de descuento en celulares hoy. No te lo pierdas, entrá ya.	1			0	0	0	0
+La solicitud de información adicional sobre nuestro producto ha sido recibida. Encuentra la información detallada adjunta.	0			0	0	0	0
+La restauración de tu sistema a un punto anterior ha sido completada. Si aún experimentas problemas, contáctanos.	0			0	0	0	0
+Esa camisa te queda genial! ¿Donde la compraste?	0			0	0	0	0
+¡Ganaste una clase de meditación! Reservá en www.meditacion-clase.com.ar y encontrá tu equilibrio.	1			0	0	0	0
+La cancelación de tu orden ha sido procesada. El reembolso aparecerá en tu cuenta en los próximos días.	0			0	0	0	1
+Q opinas de la nueva dieta? Yo la estoy probando	0			0	0	0	0
+La reserva de tu asiento en el curso en línea ha sido confirmada. Accede al material del curso en tu panel de usuario.	0			0	0	0	0
+Estoy tan cansado. Ha sido una semana larga.	0			0	0	0	0
+Tu registro en nuestra plataforma ha sido exitoso. Aquí tienes una guía de inicio rápido.	0			0	0	0	0
+Q onda con el recital? Vamos a comprar las entradas?	0			0	0	0	0
+¡Gran noticia! La fecha límite para el proyecto se ha extendido hasta el viernes. Ahora tenemos más tiempo.	0			0	0	0	0
+Tu factura de teléfono ha sido pagada automáticamente. Todo está en orden.	0			0	0	0	0
+Tu cuenta ha sido seleccionada para una actualización gratuita. Haz clic aquí para confirmar.	1			0	0	0	1
+Tu tarjeta de credito necesita verificacion. Ingresa a www.verifica-tu-tarjeta.com.ar y sigue los pasos.	1			0	0	0	0
+Tu espacio en el taller de escritura ha sido reservado. Detalles en www.taller-escritura.com.ar.	1			0	0	0	0
+Tu declaración jurada está pendiente. Completala en www.declaracion-jurada.com.ar antes de la fecha límite.	1			0	0	0	0
+Voy a visitar a mi abuela. ¿Quieres venir?	0			0	0	0	0
+Q opinas de la nueva película? Yo la amé	0			0	0	0	0
+¡Oferta en electrodomésticos! Comprá en www.electro-ahorro.com.ar y renová tu casa.	1			0	0	0	0
+Che, tu cuenta d correo va a ser cerrada. Necesito q confirmes tus datos en www.email-confirmation.com.ar	1			0	0	0	1
+Che, me ayudás a mudarme? Te invito una pizza	0			0	0	0	0
+Estoy viendo una serie nueva en Netflix. Es realmente buena.	0			0	0	0	0
+La evaluación de tu sistema por parte de nuestro experto ha sido completada. Encuentra el informe adjunto.	0			0	0	0	0
+Sos el cliente del mes! Reclamá tu premio en www.cliente-premiado.com.ar y disfrutá de tu regalo.	1			0	0	0	0
+Tu vuelo ha sido cancelado. Reorganiza tu viaje en www.vuelo-cancelado.com.ar.	1			0	0	0	0
+La práctica de baloncesto de esta noche ha sido pospuesta.	0			0	0	0	0
+Me llegó un mail tuyo con un archivo adjunto. ¿Lo abro?	1			0	0	0	0
+Vamos a jugar al bowling, te prendes?	0			0	0	0	0
+Vamos a bailar el sabado, te prendes?	0			0	0	0	0
+Tu reserva en el restaurante ha sido confirmada para las 8 p. m. ¡La noche es nuestra!	0			0	0	0	0
+Q onda con la nueva serie? La empezaste a ver?	0			0	0	0	0
+La entrega de tu pedido ha sido programada para mañana.	0			0	0	0	0
+Me llegó un mensaje con tu nombre y este link. ¿Qué es? ¿Lo abro? URL.	1			0	0	0	0
+Participa en nuestra encuesta exclusiva y gana una tarjeta de regalo de $50. Haz clic aquí.	1			0	0	0	1
+La oferta para el nuevo trabajo ha sido aceptada. ¡Felicitaciones!	0			0	0	0	0
+Che, tu factura de luz está pendiente. Pagala en www.luz-argentina.com antes de que te corten el servicio.	1			0	0	0	0
+Che, cómo estuvo la joda anoche? Me contaron q fue una locura	0			0	0	0	0
+Sos el ganador de la lotería! Reclamá tu premio en www.loteria-ganador.com.ar y disfrutá de tu fortuna.	1			0	0	0	1
+Participa en nuestro sorteo exclusivo y gana un viaje todo pagado. Haz clic aquí.	1			0	0	0	1
+La conferencia ha sido movida al salón B.	0			0	0	0	0
+¡Oferta única! Compra este producto ahora con un 60% de descuento. Haz clic aquí.	1			0	0	0	0
+¡Ganaste un viaje a Bariloche! Confirmá tus datos en www.viajeBariloche.com.ar y armá las valijas.	1			0	0	0	0
+Tu informe ha sido enviado al director.	0			0	0	0	0
+La película comienza a las 7 p. m. ¿Te veré allí?	0			0	0	0	0
+Q onda con la facultad? Como te esta yendo?	0			0	0	0	0
+Tuve un día difícil. Necesito hablar con alguien.	0			0	0	0	0
+La fecha límite para la tarea se ha cambiado a la próxima semana. Más tiempo para hacerlo perfecto.	0			0	0	0	0
+Che, me pasas el numero de Laura?	0			0	0	0	0
+Tu factura mensual ha sido pagada. Aquí tienes el recibo.	0			0	0	0	0
+Viste el nuevo bar q abrieron? Hay q ir	0			0	0	0	0
+¡Promo en productos de cocina! Comprá en www.cocina-descuento.com.ar y prepará platos deliciosos.	1			0	0	0	0
+Q haces con tus amigos? Hace mucho q no los veo	0			0	0	0	0
+Tu cita con el terapeuta ha sido confirmada para el martes. Es importante para ti, así que no lo olvides.	0			0	0	0	0
+Voy a una fiesta de cumpleaños. ¿Te gustaría venir?	0			0	0	0	0
+Tu licencia de conducir está por vencer. Renovala en www.licencia-transito.com.ar antes de que sea tarde.	1			0	0	0	0
+Gana dinero desde casa con nuestro programa exclusivo. Regístrate aquí para comenzar.	1			0	0	0	0
+Tu boleta de patente está pendiente. Pagala en www.patente-pago.com.ar antes de que te multen.	1			0	0	0	0
+Che, me olvidé tu campera en mi casa. Te la llevo mañana?	0			0	0	0	0
+Necesito tu dirección completa para el envío. ¿Me la das?	1			0	0	0	0
+Q onda con el cambio de horario? Yo me confundo siempre	0			0	0	0	0
+Che, te mandé un archivo. Descargalo desde URL. Es importante.	1			0	0	0	0
+¡Promo en flores! Comprá en www.flores-descuento.com.ar y sorprendé a esa persona especial.	1			0	0	0	0
+Tu cuenta ha sido seleccionada para una oferta especial. Ingresa tus datos aquí.	1			0	0	0	1
+La activación de tu plan familiar ha sido exitosa. Puedes añadir hasta 5 miembros de tu familia.	0			0	0	0	0
+El artículo que quieres leer está en la sección de tecnología. Lo leí y pensé en ti. ¡Es muy interesante!	0			0	0	0	0
+Hoy fui a una feria de libros. Compré un montón	0			0	0	0	0
+Tu tarjeta de crédito fue seleccionada para un premio. Confirmá acá. URL.	1			0	0	0	0
+Aquí tienes el informe que pediste. Avísame si necesitas algo más.	0			0	0	0	0
+Creo que me estoy resfriando. Tengo que ir al médico.	0			0	0	0	0
+Che, me prestás tu cámara? La necesito para un trabajo	0			0	0	0	0
+La confirmación de tu envío de garantía ha sido recibida. Procesaremos tu reclamo en los próximos 5 días hábiles.	0			0	0	0	0
+¡Oportunidad única! Invierte en este proyecto y multiplica tus ganancias. Haz clic aquí.	1			0	0	0	1
+Vamos a la montaña el finde, te prendes?	0			0	0	0	0
+Q onda con el reciclaje? Yo estoy haciendo mi parte	0			0	0	0	0
+¡Ganaste una cena en un restaurante 5 estrellas! Reservá en www.cena-lujo.com.ar y disfrutá.	1			0	0	0	0
+Me enamoré de una mina del trabajo. No se q hacer	0			0	0	0	0
+Che, me regalaron una planta y se me está muriendo. Q hago?	0			0	0	0	0
+Che, te acordas de la receta de las empanadas de tu vieja? Pasamela	0			0	0	0	0
+La reunión con el cliente ha sido programada para las 10 a. m. de mañana.	0			0	0	0	0
+Creo que dejé mi billetera en tu coche. ¿La has visto?	0			0	0	0	0
+Dale, confirmame para el asado asi compro la carne	0			0	0	0	0
+Boludo, se me perdió el perro. Me ayudás a buscarlo?	0			0	0	0	0
+No te va a gustar, pero vendí el auto	0			0	0	0	0
+La receta que me pediste está en el libro en la estantería. ¡No puedo esperar a probarlo!	0			0	0	0	0
+La programación de tu respaldo automático ha sido configurada para las 3 a. m. diariamente.	0			0	0	0	0
+¡Descuento en carnes! Comprá en www.carnes-argentinas.com.ar y preparate para el asado del domingo.	1			0	0	0	0
+La programación de tu cita con nuestro asesor financiero ha sido confirmada. Prepárate para discutir tus objetivos financieros.	0			0	0	0	0
+Che, me ayudás a armar el mueble? No entiendo las instrucciones	0			0	0	0	0
+¡Ganaste un iPhone! Solo tenés que entrar en www.gana-iPhone.com.ar y seguir los pasos. ¡Apurate, es por tiempo limitado!	1			0	0	0	1
+El informe que pediste estará listo mañana. Lo revisé y se ve genial.	0			0	0	0	0
+La programación de tu demostración de producto en vivo ha sido confirmada. Únete a nosotros en la fecha y hora programadas.	0			0	0	0	0
+Che, me prestas tu campera? Hace frio	0			0	0	0	0
+He estado pensando en mudarme. ¿Algún consejo?	0			0	0	0	0
+Creo que olvidé mi celular en tu casa. ¿Lo has visto?	0			0	0	0	0
+Tuve un día difícil. Necesito hablar con alguien.	0			0	0	0	0
+Boludo, me quedé sin luz. Veni a hacerme compañía	0			0	0	0	0
+Hola, soy de ANSES. Necesitamos actualizar tus datos. Hacelo en www.anses-seguridad.com.ar antes del viernes.	1			0	0	0	0
+Che, me pasas la tarea? No entendi nada	0			0	0	0	0
+Dale, nos vemos en la estacion a las 6	0			0	0	0	0
+La receta que pediste está en el cajón de la cocina.	0			0	0	0	0
+Hola! Soy del Banco Nacion. Necesitamos actualizar tus datos. Ingresa aca www.bna-seguridad.com y completa la info	1			0	0	0	0
+¡Oferta en juguetes para mascotas! Comprá en www.mascotas-juguetes.com.ar y mimá a tu perro o gato.	1			0	0	0	0
+Q onda con el auto? Lo pudiste arreglar?	0			0	0	0	0
+Estoy en el super, ¿necesitas algo? Leche, huevos, ¿algo mas?	0			0	0	0	0
+Che, tu tarjeta de crédito sigue siendo la misma? Necesito comprar algo online y no me anda la mía	1			0	0	0	0
+¿Cuál es tu número de pasaporte? Es para la reserva del hotel.	1			0	0	0	0
+Che, ¿cuál es tu dirección de email? Quiero enviarte algo importante.	1			0	0	0	0
+La transferencia de tus archivos a la nube ha sido completada. Puedes acceder a ellos desde cualquier dispositivo.	0			0	0	0	0
+La reserva de tu asiento en el taller de capacitación ha sido confirmada. Te esperamos el próximo sábado.	0			0	0	0	0
+Hoy me toca ir al medico, ojala q no me encuentre nada raro	0			0	0	0	0
+Necesito comprar un regalo para mi hermana. ¿Algún idea?	0			0	0	0	0
+La solicitud de una copia de tus datos personales ha sido procesada. Recibirás un archivo descargable en 72 horas.	0			0	0	0	0
+Che, mira esto! Es una oferta increible en www.ofertasHoy.com. No te lo pierdas, solo por hoy!	1			0	0	0	0
+¡Advertencia! Tu cuenta será cerrada si no actualizas tus datos ahora. Haz clic aquí.	1			0	0	0	1
+Che, mirá esta promo! Entrá a www.promoYa.com.ar y ganate una cena para dos!	1			0	0	0	1
+Che, ¿cuál es tu número de tarjeta de crédito? Es para una compra online.	1			0	0	0	0
+Hoy fui a una función de teatro. Me encantó la obra	0			0	0	0	0
+Tu cuenta de MercadoLibre fue bloqueada. Recuperá tu acceso en www.mercadolibre-recuperacion.com.ar.	1			0	0	0	1
+Boludo, me compré una moto. Veni a dar una vuelta	0			0	0	0	0
+La sincronización de tu calendario con nuestra aplicación ha sido realizada. Ahora verás tus citas en la aplicación.	0			0	0	0	0
+Che, me duele la muela. Sabes un buen dentista?	0			0	0	0	0
+¡Oferta en productos de limpieza! Comprá en www.limpieza-descuento.com.ar y dejá tu casa reluciente.	1			0	0	0	0
+Completa esta encuesta y gana una tarjeta de regalo de $100. Haz clic aquí.	1			0	0	0	1
+Tu cuenta de Netflix necesita verificación. Hacelo en www.netflix-verificacion.com.ar y seguí disfrutando de tus series.	1			0	0	0	1
+Has ganado un premio en nuestro sorteo exclusivo. Haz clic aquí para reclamarlo.	1			0	0	0	1
+hay una oportunidad de oro para invertir. Ponés $3,000 y te garantizan un retorno de 10 veces en medio año. ¡Vamos a llenarnos de guita, no te lo pierdas!	1			0	0	0	0
+La transferencia de tu dominio a nuestro registrador ha sido completada. Bienvenido a nuestro servicio.	0			0	0	0	0
+¡Promo en productos de jardinería! Comprá en www.jardin-descuento.com.ar y cuidá de tus plantas.	1			0	0	0	0
+Tu cita amorosa te está esperando. Confirma tu asistencia en www.cita-amorosa.com.ar.	1			0	0	0	0
+Estoy haciendo ejercicio todos los días. Me siento genial.	0			0	0	0	0
+Boludo, me quedé dormido y me perdí el partido. Cómo jugó Messi?	0			0	0	0	0
+No puedo creer lo rápido que crecen los niños. ¡Tu hijo ya camina!	0			0	0	0	0
+Tu queja sobre el servicio al cliente ha sido registrada. Nos pondremos en contacto contigo pronto.	0			0	0	0	0
+La confirmación de tu participación en el evento en línea ha sido recibida. Te enviaremos un recordatorio el día del evento.	0			0	0	0	0
+Hoy me hicieron una entrevista en la radio. Fui famoso por un día	0			0	0	0	0
+Vamos a la playa el finde, te prendes?	0			0	0	0	0
+Che, te enteraste q van a aumentar el gas?	0			0	0	0	0
+¡Oferta en artículos de camping! Comprá en www.camping-descuento.com.ar y preparate para la aventura.	1			0	0	0	0
+La activación de tu cuenta de desarrollador ha sido completada. Ahora puedes comenzar a publicar en nuestra plataforma.	0			0	0	0	1
+Tu crédito ha sido aprobado. Completa el proceso en www.credito-rapido.com.ar y recibe el dinero hoy.	1			0	0	0	0
+Vamos a ver el partido en mi casa, venis?	0			0	0	0	0
+Che, ¿podés darme tu número de cuenta bancaria? Es para una transferencia.	1			0	0	0	1
+Si no me das tu contraseña, voy a tener que cancelar tu cuenta.	1			0	0	0	1
+Creo que vi a tu hermano en la tienda. ¿Está en la ciudad?	0			0	0	0	0
+El vuelo de mañana ha sido cancelado. Por favor, verifica con la aerolínea.	0			0	0	0	0
+Me olvide de comprar el pan, podes pasar por la panaderia?	0			0	0	0	0
+Tenes un destornillador? Necesito arreglar algo	0			0	0	0	0
+La conferencia de padres y maestros ha sido programada para el viernes. Estoy emocionado de discutir tu progreso.	0			0	0	0	0
+La programación de tu mantenimiento regular ha sido establecida para cada primer lunes del mes.	0			0	0	0	0
+Che, te enteraste q van a cerrar la fábrica?	0			0	0	0	0
+Boludo, se me rompió la lavarropas. Sabes arreglarla?	0			0	0	0	0
+La factura de este mes ha sido pagada automáticamente.	0			0	0	0	0
+La actualización de tu dirección de correo electrónico ha sido exitosa. Utiliza la nueva dirección para iniciar sesión.	0			0	0	0	0
+Estoy en el centro comercial. ¿Necesitas algo?	0			0	0	0	0
+Tuve un día largo. Necesito relajarme.	0			0	0	0	0
+Tu tarjeta de biblioteca ha sido renovada por otro año.	0			0	0	0	0
+La entrega de tu pedido ha sido programada para mañana. Estoy emocionado por ti. ¡Espero que te guste!	0			0	0	0	0
+La programación de tu reunión virtual con nuestro equipo de ventas ha sido confirmada. Te enviaremos un recordatorio antes de la reunión.	0			0	0	0	0
+Hoy me pongo a estudiar en serio. Basta de joda	0			0	0	0	0
+Tu amigo te invitó a jugar online. Unite en www.juego-online.com.ar y divertite con él.	1			0	0	0	0
+Tu tarjeta de crédito necesita una actualización. Hacelo en www.tarjeta-actualizacion.com.ar antes de las 18hs.	1			0	0	0	0
+Boludo, me quedé sin nafta en la ruta. Veni a buscarme	0			0	0	0	0
+Q onda con el trabajo? Como te fue?	0			0	0	0	0
+Amigo, ¿viste este video? Me llegó un link y no sé si abrirlo.	1			0	0	0	0
+Oye, ¿me mandás una foto de tu licencia de conducir? Es para el seguro del auto.	1			0	0	0	0
+Creo que olvidé mi sombrero en tu casa. ¿Lo has visto?	0			0	0	0	0
+Te llame mil veces, q hacias?	0			0	0	0	0
+Hoy fui a la playa. Me quemé todo, jajaja	0			0	0	0	0
+La solicitud de cambio de nombre en tu cuenta ha sido procesada. Utiliza tu nuevo nombre para referirte a tu cuenta.	0			0	0	0	1
+Gracias por tu compra. Tu pedido está en camino.	0			0	0	0	0
+Tu amigo te envió un regalo. Recibilo en www.regalo-amigo.com.ar y disfrutalo.	1			0	0	0	0
+Tu registro para recibir alertas de seguridad ha sido exitoso. Mantente informado de las últimas amenazas.	0			0	0	0	0
+Soy del banco, tu cuenta fue hackeada. Cambiá tu contraseña en www.banco-seguro.com.ar ahora.	1			0	0	0	1
+La receta que pediste está en el cajón de la cocina. ¡No puedo esperar a probar lo que vas a cocinar!	0			0	0	0	0
+Me encontre con tu ex, no sabia q habian cortado	0			0	0	0	0
+¡Ganaste un paseo en globo! Reservá tu vuelo en www.globo-vuelo.com.ar y volá alto.	1			0	0	0	0
+Vi un coche igual al tuyo. Por un segundo pensé que eras tú.	0			0	0	0	0
+Tu cita en el oculista fue confirmada. Revisala en www.oculista-cita.com.ar y cuidá tu vista.	1			0	0	0	0
+¡Felicitaciones! Tu foto fue seleccionada en nuestro concurso. Ingresa tus datos en www.foto-premiada.com.ar para reclamar tu premio.	1			0	0	0	0
+Me anoté en el gimnasio. A ponerse en forma	0			0	0	0	0
+Necesito tu número de CUIL para el contrato. ¿Me lo pasás?	1			0	0	0	0
+Soy tu amigo d la secundaria. Necesito q me hagas un favor. Ingresa a www.ayudame-urgente.com y seguime las instrucciones.	1			0	0	0	0
+¡Oferta en bicicletas! Comprá en www.bicis-promo.com.ar y pedaleá al aire libre.	1			0	0	0	0
+La oferta en nuestra tienda en línea termina a medianoche. Sé que estabas interesado, así que no te lo pierdas.	0			0	0	0	0
+Tu cita en la peluquería fue confirmada. Revisala en www.peluqueria-cita.com.ar y renová tu look.	1			0	0	0	0
+Q opinas de la nueva ley? Yo no estoy de acuerdo	0			0	0	0	0
+Te llegó un paquete. Confirmá tu dirección en URL antes de que lo devuelvan.	1			0	0	0	0
+¡Feliz cumple! Espero verte pronto. Te extraño mucho.	0			0	0	0	0
+Tu receta médica está lista. Descargala en www.receta-medicina.com.ar y comprá tus medicamentos.	1			0	0	0	0
+La integración de tu cuenta con nuestras herramientas de colaboración ha sido completada. Invita a tu equipo para comenzar.	0			0	0	0	1
+Tu cuenta ha sido comprometida. Ingresa tus credenciales aquí para verificarla.	1			0	0	0	1
+Te aviso q tu factura esta pendiente. Ingresa en este link www.pagaYa.com.ar y salda tu deuda antes d q sea tarde!	1			0	0	0	0
+La respuesta a tu pregunta sobre la política de devoluciones ha sido enviada. Tienes 30 días para devolver un producto sin abrir.	0			0	0	0	0
+Dale, nos vemos a las 8 en el bar	0			0	0	0	0
+Me habló tu ex por Facebook. Q locura, no?	0			0	0	0	0
+me das tu dirección completa? Quiero mandarte un regalo.	1			0	0	0	0
+La configuración de tu acceso remoto ha sido realizada. Utiliza la autenticación de dos factores para mayor seguridad.	0			0	0	0	0
+Hoy fui a una exposición de fotos. Me inspiró mucho	0			0	0	0	0
+¡Tu blog ha sido destacado! Mira los comentarios en www.blog-destacado.com.ar.	1			0	0	0	0
+La verificación de tu método de pago ha sido exitosa. Ahora puedes realizar compras en nuestra tienda.	0			0	0	0	0
+La validación de tu código de descuento ha sido exitosa. Se ha aplicado un 20% de descuento a tu carrito.	0			0	0	0	0
+Q haces el domingo? Hay un picado en la cancha	0			0	0	0	0
+La eliminación de tu cuenta ha sido programada. Tienes 14 días para cancelar esta acción si cambias de opinión.	0			0	0	0	1
+La conexión segura con tu banco ha sido establecida. Puedes comenzar a realizar transacciones en nuestra plataforma.	0			0	0	0	1
+Q opinas de los robots? Yo creo q van a dominar el mundo	0			0	0	0	0
+Boludo, no te imaginas lo q me pasó ayer. Te cuento despues	0			0	0	0	0
+El informe que pediste estará listo mañana. Lo revisé y se ve genial.	0			0	0	0	0
+La desactivación de tu cuenta temporal ha sido procesada. Puedes reactivarla en cualquier momento dentro de los próximos 60 días.	0			0	0	0	1
+Dale, nos vemos en el cine a las 8	0			0	0	0	0
+La fecha límite para el proyecto ha sido cambiada a la próxima semana.	0			0	0	0	0
+La cancelación de tu alerta de empleo ha sido procesada. Puedes crear nuevas alertas en cualquier momento.	0			0	0	0	0
+La reparación de tu dispositivo está en progreso. Te notificaremos cuando esté lista para ser recogida.	0			0	0	0	0
+La receta que me pediste está en el libro en la estantería.	0			0	0	0	0
+Che, te enteraste lo q pasó en el barrio? Unos chorros robaron en la esquina	0			0	0	0	0
+Tu reserva en el restaurante ha sido confirmada. Nos vemos a las 7.	0			0	0	0	0
+La reunión con el equipo ha sido programada para las 2 p. m. Prepárate para discutir nuestros próximos pasos.	0			0	0	0	0
+Che, te enteraste de la fiesta sorpresa para Fede?	0			0	0	0	0
+La entrega de tu pedido se ha retrasado. Lamentamos el inconveniente.	0			0	0	0	0
+¡Advertencia! Tu cuenta será cerrada si no actualizas tus datos ahora. Haz clic aquí.	1			0	0	0	1
+Dale, nos vemos en la esquina a las 7	0			0	0	0	0
+La actualización de tu software ha sido completada. Si experimentas problemas, no dudes en contactarnos.	0			0	0	0	0
+Tu solicitud de préstamo ha sido aprobada. Si tienes alguna pregunta sobre los detalles, estoy aquí para ayudarte.	0			0	0	0	0
+Necesito ayuda con mi tarea. ¿Tienes tiempo mañana?	0			0	0	0	0
+Mi coche no arranca. ¿Puedes venir a ayudarme?	0			0	0	0	0
+Che, me olvide las llaves, me abris?	0			0	0	0	0
+¡Ganaste un día de pesca! Reservá tu lugar en www.pesca-gratis.com.ar y pescá tu cena.	1			0	0	0	1
+¡Ofertón en juegos de PlayStation! Solo por hoy en URL. ¡Aprovechá!	1			0	0	0	0
+Tu solicitud de cambio de dirección ha sido procesada. Todo está actualizado ahora.	0			0	0	0	0
+¡Tu equipo ganó! ¿Viste el juego?	0			0	0	0	0
+Necesito tu número de pasaporte para reservar el vuelo. ¿Me lo das?	1			0	0	0	0
+Tu vuelo ha sido confirmado. Aquí tienes tu boleto. ¡Estoy emocionado por tu aventura!	0			0	0	0	0
+Te vi en el colectivo pero no te saludé porque estabas dormido	0			0	0	0	0
+Che, me olvide la billetera, me prestas plata?	0			0	0	0	0
+La solicitud de reembolso para tu compra ha sido aprobada. El dinero será devuelto a tu cuenta original.	0			0	0	0	1
+La reserva de tu tutorial en línea con nuestro experto ha sido confirmada. Asegúrate de tener una cámara y micrófono funcionales.	0			0	0	0	0
+Viste el golazo q metio Messi? Increible	0			0	0	0	0
+El libro que pediste ya está en la biblioteca. Puedes pasar a recogerlo cuando quieras.	0			0	0	0	0
+La eliminación de tu información de pago ha sido realizada. Si deseas realizar una compra, deberás ingresar la información nuevamente.	0			0	0	0	0
+Gana dinero fácilmente participando en nuestra encuesta exclusiva. Haz clic aquí.	1			0	0	0	0
+La reunión con el equipo ha sido programada para las 2 p. m. Te veré allí.	0			0	0	0	0
+¿Podés enviarme una foto de tu pasaporte? Es para una reserva de hotel.	1			0	0	0	0
+Tu pedido ha sido enviado. Aquí tienes el número de seguimiento.	0			0	0	0	0
+Q grande Lauti, se recibió y consiguió laburo enseguida	0			0	0	0	0
+Q haces el finde? Hay un asado en lo de Juan	0			0	0	0	0
+Voy a la playa este fin de semana. ¿Te gustaría unirte?	0			0	0	0	0
+La reparación de tu coche costará $500. ¿Estás de acuerdo con eso? Avísame lo que piensas.	0			0	0	0	0
+¡Ganaste un fin de semana en un hotel 5 estrellas! Reservá en www.hotel-lujo.com.ar y disfrutá.	1			0	0	0	0
+Soy tu vecino del 3°B. Mirá estas fotos en www.tusfotos-online.com, ¿no es tu auto?	1			0	0	0	0
+No puedo creer lo caro q está todo. Me arruiné haciendo las compras	0			0	0	0	0
+Has sido elegido para una prueba gratuita de nuestro servicio. Haz clic aquí para comenzar.	1			0	0	0	0
+Q onda con el estudio? Estas estudiando?	0			0	0	0	0
+¡Ganaste una cena en un restaurante vegetariano! Reservá en www.vegetariano-cena.com.ar y disfrutá de sabores saludables.	1			0	0	0	0
+Ganate un día de spa. Solo tenés que registrarte en URL.	1			0	0	0	0
+Tu boleta de IVA está disponible. Pagala en www.iva-pago.com.ar antes de la fecha de vencimiento.	1			0	0	0	0
+Boludo, ¿me pasás tu número de CUIL? Necesito hacer un trámite.	1			0	0	0	0
+Che, me llegó un mensaje de voz tuyo. Lo escuchás en URL. Parece urgente.	1			0	0	0	0
+La personalización de tu perfil ha sido guardada. Puedes realizar cambios adicionales en cualquier momento.	0			0	0	0	0
+Q tal el viaje? Me contaron q la pasaron genial	0			0	0	0	0
+La solicitud para añadir un nuevo usuario a tu cuenta ha sido procesada. El usuario recibirá un correo electrónico de invitación.	0			0	0	0	1
+La clase de baile de esta noche ha sido pospuesta.	0			0	0	0	0
+Has sido elegido para una oportunidad única de inversión. Regístrate aquí para más detalles.	1			0	0	0	0
+Gana dinero fácilmente participando en nuestra encuesta exclusiva. Haz clic aquí.	1			0	0	0	0
+Voy a visitar a mis viejos el finde. Hace mucho q no los veo	0			0	0	0	0
+La clase de yoga de esta noche ha sido cancelada.	0			0	0	0	0
+Tu cuenta de Gmail necesita verificación. Hacelo en URL antes de que te la bloqueen.	1			0	0	0	1
+¡Oferta en maquillaje! Comprá en www.maquillaje-promo.com.ar y resaltá tu belleza.	1			0	0	0	0
+El entrenamiento de esta noche ha sido cancelado. ¿Qué te parece si lo hacemos en línea en su lugar?	0			0	0	0	0
+Tu declaración de impuestos está pendiente. Completala en www.impuestos-argentina.com antes de la fecha límite.	1			0	0	0	0
+La película comienza a las 7 p. m. ¿Te veré allí? Será divertido.	0			0	0	0	0
+Q onda con el profe de historia? Me puso un 2 en el examen	0			0	0	0	0
+Estoy leyendo un libro interesante. Creo que te gustaría.	0			0	0	0	0
+¡Tu voz ha sido seleccionada para nuestra radio! Escúchala en www.radio-voz.com.ar.	1			0	0	0	0
+La respuesta a tu solicitud de personalización de producto ha sido enviada. Podemos personalizar el producto según tus especificaciones.	0			0	0	0	0
+Hola, soy del hospital. Hay una emergencia familiar. Verifica la información en www.hospital-emergencia.com.ar.	1			0	0	0	0
+Tenes un abrigo para prestarme? Hace frio	0			0	0	0	0
+Zoey es la criptomoneda del momento. Invertís ahora y te prometen un retorno fenomenal en los próximos años. Muchos ya se están uniendo, ¡no te quedes afuera!	1			0	0	0	0
+La clase de esta noche ha sido cancelada debido al clima. Nos vemos en la próxima.	0			0	0	0	0
+¡Ganaste una clase de canto! Reservá en www.canto-clase.com.ar y afiná tu voz.	1			0	0	0	0
+Dale, confirmame para la cena asi compro todo	0			0	0	0	0
+Tu factura de gas está pendiente. Pagala en www.gas-argentina.com antes de que te corten el servicio.	1			0	0	0	0
+Tu paquete está en camino. Seguilo en www.paquete-seguimiento.com.ar y sabé cuándo llega.	1			0	0	0	0
+Tu factura de teléfono de este mes se pagó automáticamente. Si tienes alguna pregunta, estoy aquí para ayudarte.	0			0	0	0	0
+¿Podés darme tu número de cuenta? Quiero hacerte una transferencia rápida.	1			0	0	0	1
+La programación de tu cita para la instalación en el hogar ha sido confirmada. Por favor, asegúrate de que alguien esté en casa.	0			0	0	0	0
+Che, sabes si Silvia está bien? No me contesta los mensajes	0			0	0	0	0
+La instalación de tu nuevo equipo está programada para el martes. Por favor, asegúrate de estar presente.	0			0	0	0	0
+Che, me pasas tu wifi? Necesito internet	0			0	0	0	0
+Dale, confirmame para la reunion asi organizo	0			0	0	0	0
+Che, vi una oferta de viaje a Brasil. Nos vamos?	0			0	0	0	0
+¡Promo en perfumes! Comprá en www.perfumes-descuento.com.ar y olemos riquísimo.	1			0	0	0	0
+Tu pago ha sido rechazado. Ingresa tus datos aquí para procesarlo nuevamente.	1			0	0	0	0
+Tu vuelo ha sido confirmado. Aquí tienes los detalles. ¡Nos vemos pronto!	0			0	0	0	0
+Tu solicitud de préstamo ha sido aprobada.	0			0	0	0	0
+Q opinas de la educación en el país? Yo estoy preocupado	0			0	0	0	0
+Tu tarjeta de crédito ha sido bloqueada. Ingresa tus datos aquí para desbloquearla.	1			0	0	0	0
+Necesito encontrar un nuevo lugar para vivir. ¿Conoces algo?	0			0	0	0	0
+Tu inscripción en el seminario web ha sido exitosa. Te enviaremos un enlace de acceso 30 minutos antes de que comience.	0			0	0	0	0
+La receta que me pediste está en el libro en la estantería. ¡No puedo esperar a que lo hagas!	0			0	0	0	0
+¡Promo en cámaras de fotos! Comprá en www.camaras-descuento.com.ar y capturá tus mejores momentos.	1			0	0	0	0
+¡Oferta por tiempo limitado! Compra ahora y obtén envío gratis. Haz clic aquí.	1			0	0	0	1
+¡Tu receta de cóctel ha sido seleccionada! Compártela con tus amigos desde www.cóctel-seleccionado.com.ar.	1			0	0	0	0
+La configuración de tu cuenta para notificaciones por correo electrónico ha sido actualizada. Puedes cambiarla en cualquier momento.	0			0	0	0	1
+Che, me llegó un mail con este link tuyo. ¿Es seguro? ¿Qué es? URL.	1			0	0	0	0
+¡Promo en cervezas! Comprá en www.cervezas-promo.com.ar y disfrutá con tus amigos.	1			0	0	0	0
+Tu tarjeta de membresía ha sido renovada. Gracias por quedarte con nosotros. ¡Lo apreciamos mucho!	0			0	0	0	0
+Tu perfil ha sido seleccionado para una oferta exclusiva. Regístrate aquí para aprovecharla.	1			0	0	0	0
+La programación de tu análisis antivirus diario ha sido configurada. Tu computadora será escaneada cada noche.	0			0	0	0	0
+Boludo, me picó una abeja. Me duele un montón	0			0	0	0	0
+Tu solicitud de transferencia ha sido aprobada. Estoy emocionado por esta nueva oportunidad para ti.	0			0	0	0	0
+La práctica de tenis de esta noche ha sido cancelada debido al clima.	0			0	0	0	0
+Boludo, se me murió el pez. Estoy re triste	0			0	0	0	0
+La respuesta a tu pregunta sobre la compatibilidad del dispositivo ha sido enviada. Lamentablemente, tu dispositivo no es compatible.	0			0	0	0	0
+Tkm, nos vemos mañana	0			0	0	0	0
+Tu cuenta de email fue bloqueada. Recuperá tu acceso en www.email-recuperacion.com.ar.	1			0	0	0	1
+Tengo una entrevista mañana, me prestas tu corbata?	0			0	0	0	0
+La configuración de tu monitoreo de red ha sido establecida. Recibirás alertas si detectamos actividad inusual.	0			0	0	0	0
+Tu cita con el abogado ha sido programada para el jueves.	0			0	0	0	0
+Boludo, me gané la lotería! Nah, mentira, jajaja	0			0	0	0	0
+La escuela estará cerrada mañana debido al mal tiempo.	0			0	0	0	0
+¿Sabes donde está el control remoto? No lo encuentro por ningun lado.	0			0	0	0	0
+Tu pedido ha sido recibido y está siendo procesado. ¡Gracias por comprar con nosotros!	0			0	0	0	0
+Tu cuenta de Google fue hackeada. Recuperá tu acceso en www.google-recuperacion.com.ar y seguí navegando.	1			0	0	0	1
+Confirma tu suscripción a nuestro servicio premium con un descuento del 70%. Haz clic aquí.	1			0	0	0	0
+Hay una oportunidad increíble con Zoey. Invertís ahora y te prometen un retorno fenomenal en los próximos años. Es la criptomoneda del futuro, ¡no te quedes afuera!	1			0	0	0	0
+Tu recibo de alquiler está disponible. Pagalo en www.alquiler-pago.com.ar y seguí disfrutando de tu hogar.	1			0	0	0	0
+Mañana hay paro, mejor sali temprano	0			0	0	0	0
+¡Participá en este sorteo de celulares! Solo entrá en URL y completá tus datos.	1			0	0	0	0
+Tu solicitud de transferencia ha sido aprobada. Estoy emocionado por esta nueva oportunidad para ti.	0			0	0	0	0
+Che, ¿me pasás tu mail? Tengo que mandarte algo importante.	1			0	0	0	0
+La clase de esta noche ha sido reprogramada para mañana. Espero verte allí.	0			0	0	0	0
+Che, mirá esta promo! Entrá a www.promoYa.com.ar y ganate una cena para dos!	1			0	0	0	1
+Estoy viendo una película interesante. ¿Quieres unirte?	0			0	0	0	0
+Q onda con tu jefe? Me contaron q es un pesado	0			0	0	0	0
+Participa en nuestra encuesta exclusiva y gana una tarjeta de regalo de $75. Haz clic aquí.	1			0	0	0	1
+Tu reservación para la noche de jazz está confirmada. Verifica en www.jazz-noche.com.ar.	1			0	0	0	0
+No olvides la reunión de mañana a las 10 a. m.	0			0	0	0	0
+Ganaste un cupon de descuento en nuestra tienda! Ingresa a www.cuponazo.com.ar y aprovecha la oferta ahora!	1			0	0	0	0
+Dale boludo	0			0	0	0	0
+Me encantó el libro q me prestaste. Gracias!	0			0	0	0	0
+Boludo, me gané un sorteo. Me voy de viaje!	0			0	0	0	0
+Estoy pensando en un viaje este verano. ¿Te gustaría unirte?	0			0	0	0	0
+Boludo, me robaron el celular. No te lo puedo creer	0			0	0	0	0
